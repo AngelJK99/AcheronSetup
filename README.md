@@ -73,7 +73,7 @@
 
     
 
-  <meta name="request-id" content="34EA:0DBB:91381C:94DF97:63E6655B" data-turbo-transient="true" /><meta name="html-safe-nonce" content="6a33f2cae4fce0ea9043bce70822c12e748f87fb7d7d07199b3740a25a4bf97d" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9kcmFrdW11cy9BY2hlcm9uU2V0dXAvdHJlZS91cGRhdGUtcmVhZG1lL2tleWJvYXJkX2NyZWF0b3IiLCJyZXF1ZXN0X2lkIjoiMzRFQTowREJCOjkxMzgxQzo5NERGOTc6NjNFNjY1NUIiLCJ2aXNpdG9yX2lkIjoiMjM2MjI0OTEyMTMwNjM0OTc2MSIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="9f920b056dca69b981ac4ddcf82ebe43547375b8102dbc4426d63cce13d6d043" data-turbo-transient="true" />
+  <meta name="request-id" content="34EA:0DBB:99CE60:9DB29C:63E666B8" data-turbo-transient="true" /><meta name="html-safe-nonce" content="6a33f2cae4fce0ea9043bce70822c12e748f87fb7d7d07199b3740a25a4bf97d" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9kcmFrdW11cy9BY2hlcm9uU2V0dXAvdHJlZS91cGRhdGUtcmVhZG1lL2tleWJvYXJkX2NyZWF0b3IiLCJyZXF1ZXN0X2lkIjoiMzRFQTowREJCOjk5Q0U2MDo5REIyOUM6NjNFNjY2QjgiLCJ2aXNpdG9yX2lkIjoiMjM2MjI0OTEyMTMwNjM0OTc2MSIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="b3978ba7bfd0d07a0fa5abe354249f05302141be8f121e81d03798a38f0b4e65" data-turbo-transient="true" />
 
 
     <meta name="hovercard-subject-tag" content="repository:491586081" data-turbo-transient>
@@ -116,7 +116,7 @@
       <meta property="og:image" content="https://opengraph.githubassets.com/e88344d9d779763ee92327f53e059b470d85976ba0b370ea91aa6b49d9c79600/drakumus/AcheronSetup" /><meta property="og:image:alt" content="Setup scripts aiming at keyboard PCB development using KiCAD - AcheronSetup/README.md at update-readme · drakumus/AcheronSetup" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="AcheronSetup/README.md at update-readme · drakumus/AcheronSetup" /><meta property="og:url" content="https://github.com/drakumus/AcheronSetup" /><meta property="og:description" content="Setup scripts aiming at keyboard PCB development using KiCAD - AcheronSetup/README.md at update-readme · drakumus/AcheronSetup" />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/51998297/ws?session=eyJ2IjoiVjMiLCJ1Ijo1MTk5ODI5NywicyI6OTQ4NDg0NDAyLCJjIjoxNjIxNzc5NTAyLCJ0IjoxNjc2MDQzNjI3fQ==--a5f6a22b96bd3e25748b2e546e9110d9948e8c18b64f2223810c2ba8eec1b794" data-refresh-url="/_alive" data-session-id="a85ae493ac179a01303a35f697274aa1cd0b226e3ebd691cc5a9da52c15a6d40">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/51998297/ws?session=eyJ2IjoiVjMiLCJ1Ijo1MTk5ODI5NywicyI6OTQ4NDg0NDAyLCJjIjo0NjYyMTE5MDgsInQiOjE2NzYwNDQwMzF9--175785fec009db9d98884e9de83f73515222695ff7335d20248986bbc71ea2ba" data-refresh-url="/_alive" data-session-id="a85ae493ac179a01303a35f697274aa1cd0b226e3ebd691cc5a9da52c15a6d40">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-d7c2fe14563a.js">
 
 
@@ -239,7 +239,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="si-xfR6KkjBLcQTE4RJ5f-qRKbjKb0tKzE-GT5y9NUxpSEdU5BTMeHz1hK5owehZj3IpXQPlEe713bNAfrVk_Q" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="rLjrr29_8sItdj6q7kI4w8udpxPQjmsYVFmkbjuzZv933x2GleGsihryvsBnkanlrn6n9hkEMbxty5Fh2bs3Tg" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -446,7 +446,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/51998297?s=40&amp;v=4" width="20" height="20" alt="@AngelJK99" />
       AngelJK99
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="_BJkMZZrQKe5UVNSW-y46USBo5IOsyCjAuH7IpLbmaIJwRAR4ZxYa6nwH5PpZa7B6LLH4T5B6jlorunrQNAzyg" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="dpzqg2TRLNcbBuLsmnrSIAH9kOYzZiKp2g1GfCo_PkSDT56jEyY0Gwunri0o88QIrc70lQOU6DOwQlS1-DSULA" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -481,7 +481,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NTE5OTgyOTciLCJ0IjoxNjc2MDQzNjI3fQ==--5f2d9b98550dfac6e5db25b4f9aa2c1e0de61470d41f7169f21046b6bb2f193a" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NTE5OTgyOTciLCJ0IjoxNjc2MDQ0MDMxfQ==--86b27723dd92e666f200e84d6bb06cd27ba8e643d471a2533808ed307b1dc98f" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -796,7 +796,7 @@
     <button aria-keyshortcuts="Control+Backspace" data-action="click:command-palette-input#onClear keypress:command-palette-input#onClear" data-target="command-palette-input.clearButton" id="command-palette-clear-button" hidden="hidden" type="button" data-view-component="true" class="btn-octicon command-palette-input-clear-button">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x-circle-fill">
     <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"></path>
 </svg>
-</button>    <tool-tip id="tooltip-9a8f6a1b-b9c4-4e37-ba2d-45fb2aaa4b05" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
+</button>    <tool-tip id="tooltip-9c483542-0a9a-4a84-b845-424ccff63cca" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
 </div>
       </command-palette-input>
 
@@ -1661,7 +1661,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="7LQeCzeVMslqejDMVl6moz4qJlMhhT_fhxp7uuMk6MvaQAjg7CUa2CQwXLDlUk2ItfFn4x5G8mTDoi5VyAAo2g" autocomplete="off" />
+              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="o-tXhSgOTkrNWttL7ZVNYVDPKtjLijThZjm5kz2vNr2VH0Fu875mW4MQtzdemaZK2xRraPRJ-Voigex8Fov2rA" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="491586081">
 
@@ -1789,7 +1789,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="H80g35QqbBsM4_cuNQ8WPMDRqYmOMXVE8ttAtP4v7GApOTY0T5pECkKpm1KGA_0XSwroObHyuP-2YxVb1QsscQ" autocomplete="off" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="O6tfmDArrsO4cxQz_DbGlvMz8MX8aUBpULv2ZVStZBYNX0lz65uG0vY5eE9POi29eOixdcOqjdIUA6OKf4mkBw" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="491586081">
 
@@ -1953,7 +1953,7 @@
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="9" data-view-component="true" class="Counter">9</span>
-</a>    <tool-tip id="tooltip-79f3cccb-d35b-4634-930e-22d18da5546e" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Fork your own copy of drakumus/AcheronSetup</tool-tip>
+</a>    <tool-tip id="tooltip-956d24c3-b27a-42a2-997d-6758e4c6e9bc" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Fork your own copy of drakumus/AcheronSetup</tool-tip>
 </div>
       <details group_item="true" id="my-forks-menu-491586081" data-view-component="true" class="details-reset details-overlay BtnGroup-parent d-inline-block position-relative">
               <summary aria-label="See your forks of this repository" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
@@ -1968,13 +1968,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-b3c24e">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-16d900">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-b3c24e"
+        id="filter-menu-16d900"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2016,8 +2016,8 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/drakumus/AcheronSetup/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="52Bze3ojUUSJhWyfQxFnrA_om3EGtlIW1Cp-PLp0bZ06hWJ5UsAXninxfmz4HMtNQquLIbbBU3AOh_14JzDOEw" autocomplete="off" />
-          <input type="hidden" value="Fa7AB6cXeom2g9xncij-e3JGv-MZ0fwvMpyiSPh-QwzIS9EFj_Q8Uxb3zpTJJVKaPwWvs6mm_UnoMSEMZTrggg" data-csrf="true" class="js-confirm-csrf-token" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/drakumus/AcheronSetup/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="yMNMVw1MwSmFxzQvr87B-xReW7OgSb89DKJFkkGci78VJl1VJa-H8yWzJtwUw20aWR1L4xA-vlvWD8bW3NgoMQ" autocomplete="off" />
+          <input type="hidden" value="Mh5ay-QsA8JYiezkWygwY3SJXg426zTer3HdpC9cEADv-0vJzM9FGPj9_hfgJZyCOcpOXoacNbh13F7gshizjg" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
           <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:491586081,&quot;originating_url&quot;:&quot;https://github.com/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/README.md&quot;,&quot;user_id&quot;:51998297}}" data-hydro-click-hmac="740722244df2c543e55766f90fa33ab968eb6da515cf8e875e653a9fcd9cc083" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (0)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
@@ -2037,13 +2037,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-7c5512">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-4a2e00">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-7c5512"
+        id="filter-menu-4a2e00"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2064,7 +2064,7 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/drakumus/AcheronSetup/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="kfQYcpGXt1yR6DnZBUk267YtoWf_4M44kRt_GoWanAQ49FYnD-9W6CC3Fv74OYN7AXCmnSN_TP5u1cJW4z7FqA" autocomplete="off" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/drakumus/AcheronSetup/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="oyWwwocspZRGelWSr9ERSejsCdzsDnTXG13Rq0To-hoKJf6XGVREIPclerVSoaTZX7EOJjCR9hHkk2znIkyjtg" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
           <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:491586081,&quot;originating_url&quot;:&quot;https://github.com/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/README.md&quot;,&quot;user_id&quot;:51998297}}" data-hydro-click-hmac="4d0fb13c0b91de79707e885485eb3ea452b88c1abd167b9ca921ed7c126e3130" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (0)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
@@ -2084,13 +2084,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-7c5512">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-4a2e00">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-7c5512"
+        id="filter-menu-4a2e00"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2625,7 +2625,7 @@
     <div class="d-flex">
         
 <div class="ml-1" >
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/drakumus/AcheronSetup/edit/update-readme/keyboard_creator/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="-Gts86O7HC0YLviFHuzdMz-lSPaFiknR-iqTkqVpVAz4ijhXtrgAgJTrmVTg2pw1x0oC10RGStcAZrrLZZTjeA" autocomplete="off" />
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/drakumus/AcheronSetup/edit/update-readme/keyboard_creator/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="PhexkY2kuDpQWlJsKVr8EOFZQF2vCeaJmpmzDzQ2xKs-9uU1mKekl9yfM73XbL0WGbYKfG7F5Y9g1ZpW9Mtz3w" autocomplete="off" />
       <button title="Edit the file in your fork of this project" data-hotkey="e" data-disable-with="" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
@@ -2635,7 +2635,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/drakumus/AcheronSetup/edit/update-readme/keyboard_creator/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Tgn7sideVdUEgscf88WWSDwFoZ3vhLf3RdkQSdzcKOlO6K8WMl1JeIhHps4N89dOxOrrvC5ItPG_lTkQHCGfnQ" autocomplete="off" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/drakumus/AcheronSetup/edit/update-readme/keyboard_creator/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="R4hBeBHYNfxkNEEiKXMbnJGBlC9yYf359LmhorGTPA5HaRXcBNspUejxIPPXRVqaaW7eDrOt_v8O9Yj7cW6Leg" autocomplete="off" />
               <button title="Edit the file in your fork of this project" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -2682,7 +2682,7 @@
 </remote-clipboard-copy></div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/drakumus/AcheronSetup/delete/update-readme/keyboard_creator/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="WRPlsJfC3Mg7i5UqB1woWu0EoLTY-3qffHS8dQxi7aFZL8-i35GRwm6-dSDj3fNOj-GGTrCLUjNzFNgO_tRz9Q" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/drakumus/AcheronSetup/delete/update-readme/keyboard_creator/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="lSyCww6qDYgxljP-1v0vo9piBHsiwrMNKqQ5ti4wTJOVEKjRRvlAgmSj0_QyfPS3uIcigUqym6ElxF3N3IbSxw" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete the file in your fork of this project" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
