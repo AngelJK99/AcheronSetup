@@ -67,13 +67,13 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-dfd61b3286b2.js"></script>
   
 
-  <title>AcheronSetup/README.md at update-readme · drakumus/AcheronSetup</title>
+  <title>AcheronSetup/keyboard_create.sh at update-readme · drakumus/AcheronSetup</title>
 
 
 
     
 
-  <meta name="request-id" content="34EA:0DBB:91381C:94DF97:63E6655B" data-turbo-transient="true" /><meta name="html-safe-nonce" content="6a33f2cae4fce0ea9043bce70822c12e748f87fb7d7d07199b3740a25a4bf97d" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9kcmFrdW11cy9BY2hlcm9uU2V0dXAvdHJlZS91cGRhdGUtcmVhZG1lL2tleWJvYXJkX2NyZWF0b3IiLCJyZXF1ZXN0X2lkIjoiMzRFQTowREJCOjkxMzgxQzo5NERGOTc6NjNFNjY1NUIiLCJ2aXNpdG9yX2lkIjoiMjM2MjI0OTEyMTMwNjM0OTc2MSIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="9f920b056dca69b981ac4ddcf82ebe43547375b8102dbc4426d63cce13d6d043" data-turbo-transient="true" />
+  <meta name="request-id" content="34EA:0DBB:92054A:95B317:63E6656B" data-turbo-transient="true" /><meta name="html-safe-nonce" content="6a33f2cae4fce0ea9043bce70822c12e748f87fb7d7d07199b3740a25a4bf97d" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9kcmFrdW11cy9BY2hlcm9uU2V0dXAvdHJlZS91cGRhdGUtcmVhZG1lL2tleWJvYXJkX2NyZWF0b3IiLCJyZXF1ZXN0X2lkIjoiMzRFQTowREJCOjkyMDU0QTo5NUIzMTc6NjNFNjY1NkIiLCJ2aXNpdG9yX2lkIjoiMjM2MjI0OTEyMTMwNjM0OTc2MSIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="a9e3716ce0700b94223210982bfabbd5165f21d5bc4e254e0ec4c4b95fccaf23" data-turbo-transient="true" />
 
 
     <meta name="hovercard-subject-tag" content="repository:491586081" data-turbo-transient>
@@ -107,16 +107,16 @@
 
     <meta name="viewport" content="width=device-width">
     
-      <meta name="description" content="Setup scripts aiming at keyboard PCB development using KiCAD - AcheronSetup/README.md at update-readme · drakumus/AcheronSetup">
+      <meta name="description" content="Setup scripts aiming at keyboard PCB development using KiCAD - AcheronSetup/keyboard_create.sh at update-readme · drakumus/AcheronSetup">
       <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/e88344d9d779763ee92327f53e059b470d85976ba0b370ea91aa6b49d9c79600/drakumus/AcheronSetup" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="AcheronSetup/README.md at update-readme · drakumus/AcheronSetup" /><meta name="twitter:description" content="Setup scripts aiming at keyboard PCB development using KiCAD - AcheronSetup/README.md at update-readme · drakumus/AcheronSetup" />
-      <meta property="og:image" content="https://opengraph.githubassets.com/e88344d9d779763ee92327f53e059b470d85976ba0b370ea91aa6b49d9c79600/drakumus/AcheronSetup" /><meta property="og:image:alt" content="Setup scripts aiming at keyboard PCB development using KiCAD - AcheronSetup/README.md at update-readme · drakumus/AcheronSetup" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="AcheronSetup/README.md at update-readme · drakumus/AcheronSetup" /><meta property="og:url" content="https://github.com/drakumus/AcheronSetup" /><meta property="og:description" content="Setup scripts aiming at keyboard PCB development using KiCAD - AcheronSetup/README.md at update-readme · drakumus/AcheronSetup" />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/e88344d9d779763ee92327f53e059b470d85976ba0b370ea91aa6b49d9c79600/drakumus/AcheronSetup" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="AcheronSetup/keyboard_create.sh at update-readme · drakumus/AcheronSetup" /><meta name="twitter:description" content="Setup scripts aiming at keyboard PCB development using KiCAD - AcheronSetup/keyboard_create.sh at update-readme · drakumus/AcheronSetup" />
+      <meta property="og:image" content="https://opengraph.githubassets.com/e88344d9d779763ee92327f53e059b470d85976ba0b370ea91aa6b49d9c79600/drakumus/AcheronSetup" /><meta property="og:image:alt" content="Setup scripts aiming at keyboard PCB development using KiCAD - AcheronSetup/keyboard_create.sh at update-readme · drakumus/AcheronSetup" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="AcheronSetup/keyboard_create.sh at update-readme · drakumus/AcheronSetup" /><meta property="og:url" content="https://github.com/drakumus/AcheronSetup" /><meta property="og:description" content="Setup scripts aiming at keyboard PCB development using KiCAD - AcheronSetup/keyboard_create.sh at update-readme · drakumus/AcheronSetup" />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/51998297/ws?session=eyJ2IjoiVjMiLCJ1Ijo1MTk5ODI5NywicyI6OTQ4NDg0NDAyLCJjIjoxNjIxNzc5NTAyLCJ0IjoxNjc2MDQzNjI3fQ==--a5f6a22b96bd3e25748b2e546e9110d9948e8c18b64f2223810c2ba8eec1b794" data-refresh-url="/_alive" data-session-id="a85ae493ac179a01303a35f697274aa1cd0b226e3ebd691cc5a9da52c15a6d40">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/51998297/ws?session=eyJ2IjoiVjMiLCJ1Ijo1MTk5ODI5NywicyI6OTQ4NDg0NDAyLCJjIjozNTczMzcyMzU0LCJ0IjoxNjc2MDQzNjY1fQ==--b3f969dc21e0e56db2cc4c988df6b075787dce6f9a8d4cd4e299a280aa50f53f" data-refresh-url="/_alive" data-session-id="a85ae493ac179a01303a35f697274aa1cd0b226e3ebd691cc5a9da52c15a6d40">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-d7c2fe14563a.js">
 
 
@@ -146,7 +146,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/README.md" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/keyboard_create.sh" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -239,7 +239,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="si-xfR6KkjBLcQTE4RJ5f-qRKbjKb0tKzE-GT5y9NUxpSEdU5BTMeHz1hK5owehZj3IpXQPlEe713bNAfrVk_Q" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="0lfoacW1mxwatZCWrtenYVpfvdYSJuzixDqFmSGKc2YJMB5APyvFVC0xEPwnBDZHP7y9M9ustkb9qLCWw4Ii1w" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -438,7 +438,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;AngelJK99&quot;,&quot;originating_url&quot;:&quot;https://github.com/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/README.md&quot;,&quot;user_id&quot;:51998297}}" data-hydro-click-hmac="021ae1f32b300fb95c6d6e56a354bf85b982cd16b368a8d8d50bece8e5888383" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;AngelJK99&quot;,&quot;originating_url&quot;:&quot;https://github.com/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/keyboard_create.sh&quot;,&quot;user_id&quot;:51998297}}" data-hydro-click-hmac="514aa4684b70c44e8eecf90be0b5a423302e38d517f3f72b392a41d0cac1c088" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -446,7 +446,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/51998297?s=40&amp;v=4" width="20" height="20" alt="@AngelJK99" />
       AngelJK99
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="_BJkMZZrQKe5UVNSW-y46USBo5IOsyCjAuH7IpLbmaIJwRAR4ZxYa6nwH5PpZa7B6LLH4T5B6jlorunrQNAzyg" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Ly9JRDszOyzhiQuxNDYfSCc-cqrXOr2cWMG1ElAEZK7a_D1kTMQj4PEoR3CGvwlgiw0W2efIdwYyjqfbgg_Oxg" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -481,7 +481,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NTE5OTgyOTciLCJ0IjoxNjc2MDQzNjI3fQ==--5f2d9b98550dfac6e5db25b4f9aa2c1e0de61470d41f7169f21046b6bb2f193a" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NTE5OTgyOTciLCJ0IjoxNjc2MDQzNjY1fQ==--db42223051019562256f1ecb837917eca4ddf2cab29e29463d9cd23f4e1bbd90" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -639,7 +639,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/README.md
+      return-to=/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/keyboard_create.sh
       user-id="51998297"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -796,7 +796,7 @@
     <button aria-keyshortcuts="Control+Backspace" data-action="click:command-palette-input#onClear keypress:command-palette-input#onClear" data-target="command-palette-input.clearButton" id="command-palette-clear-button" hidden="hidden" type="button" data-view-component="true" class="btn-octicon command-palette-input-clear-button">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x-circle-fill">
     <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"></path>
 </svg>
-</button>    <tool-tip id="tooltip-9a8f6a1b-b9c4-4e37-ba2d-45fb2aaa4b05" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
+</button>    <tool-tip id="tooltip-4a7ee67c-1941-47aa-980e-2d693c6986c4" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
 </div>
       </command-palette-input>
 
@@ -1609,7 +1609,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:491586081,&quot;originating_url&quot;:&quot;https://github.com/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/README.md&quot;,&quot;user_id&quot;:51998297}}" data-hydro-click-hmac="2fa0e988048500f3e35ca86bb08802ac67d391e3562a34ae7a8cc97baea73b48" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:491586081,&quot;originating_url&quot;:&quot;https://github.com/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/keyboard_create.sh&quot;,&quot;user_id&quot;:51998297}}" data-hydro-click-hmac="e64bda803fa381bdf5cbdd63f568b80840e75c3d7b7b191eb7e828eb86ec4bc2" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
             <span
               hidden
               
@@ -1661,7 +1661,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="7LQeCzeVMslqejDMVl6moz4qJlMhhT_fhxp7uuMk6MvaQAjg7CUa2CQwXLDlUk2ItfFn4x5G8mTDoi5VyAAo2g" autocomplete="off" />
+              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="-mt0EfbtcfSvAxSs0jrmys3R0cG7yNhe9j8t80imrcfMn2L6LV1Z5eFJeNBhNg3hRgqQcYQLFeWyh3gcY4Jt1g" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="491586081">
 
@@ -1789,7 +1789,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="H80g35QqbBsM4_cuNQ8WPMDRqYmOMXVE8ttAtP4v7GApOTY0T5pECkKpm1KGA_0XSwroObHyuP-2YxVb1QsscQ" autocomplete="off" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="PdqHUFq88Et2V6SUxRMkSvv6mjwzDH0361_4H4gLtvQLLpG7gQzYWjgdyOh2H89hcCHbjAzPsIyv563woy925Q" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="491586081">
 
@@ -1949,11 +1949,11 @@
   <li>
         <div data-view-component="true" class="d-flex">
         <div data-view-component="true" class="position-relative d-inline-block">
-    <a icon="repo-forked" id="fork-button" href="/drakumus/AcheronSetup/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:491586081,&quot;originating_url&quot;:&quot;https://github.com/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/README.md&quot;,&quot;user_id&quot;:51998297}}" data-hydro-click-hmac="d69c63815b8ad1fb895ab618bad942c683ae3965c4a20345fb5c970829d2e3eb" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" data-view-component="true" class="btn-sm btn BtnGroup-item border-right-0">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+    <a icon="repo-forked" id="fork-button" href="/drakumus/AcheronSetup/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:491586081,&quot;originating_url&quot;:&quot;https://github.com/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/keyboard_create.sh&quot;,&quot;user_id&quot;:51998297}}" data-hydro-click-hmac="3204a9ba9dc6f67373613566bb001e07939459101d41dc949f3834ea869d6e84" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" data-view-component="true" class="btn-sm btn BtnGroup-item border-right-0">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="9" data-view-component="true" class="Counter">9</span>
-</a>    <tool-tip id="tooltip-79f3cccb-d35b-4634-930e-22d18da5546e" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Fork your own copy of drakumus/AcheronSetup</tool-tip>
+</a>    <tool-tip id="tooltip-6fbae7e9-6702-4738-9724-234edf762a72" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Fork your own copy of drakumus/AcheronSetup</tool-tip>
 </div>
       <details group_item="true" id="my-forks-menu-491586081" data-view-component="true" class="details-reset details-overlay BtnGroup-parent d-inline-block position-relative">
               <summary aria-label="See your forks of this repository" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
@@ -1968,13 +1968,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-b3c24e">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-2600b8">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-b3c24e"
+        id="filter-menu-2600b8"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2016,10 +2016,10 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/drakumus/AcheronSetup/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="52Bze3ojUUSJhWyfQxFnrA_om3EGtlIW1Cp-PLp0bZ06hWJ5UsAXninxfmz4HMtNQquLIbbBU3AOh_14JzDOEw" autocomplete="off" />
-          <input type="hidden" value="Fa7AB6cXeom2g9xncij-e3JGv-MZ0fwvMpyiSPh-QwzIS9EFj_Q8Uxb3zpTJJVKaPwWvs6mm_UnoMSEMZTrggg" data-csrf="true" class="js-confirm-csrf-token" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/drakumus/AcheronSetup/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="J-59NCrI9hFT8Fq4-eS-oKaNXyFTwXvcM-uhLq6WjLz6C2w2Aiuwy_OESEtC6RJB685PceO2errpRiJqM9IvMg" autocomplete="off" />
+          <input type="hidden" value="iQsiaQNLSjRwufq_xon6X8fHuunRk5lJloVsIGVwfg5U7jNrK6gM7tDN6Ex9hFa-ioSquWHkmC9MKO9k-DTdgA" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:491586081,&quot;originating_url&quot;:&quot;https://github.com/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/README.md&quot;,&quot;user_id&quot;:51998297}}" data-hydro-click-hmac="740722244df2c543e55766f90fa33ab968eb6da515cf8e875e653a9fcd9cc083" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (0)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:491586081,&quot;originating_url&quot;:&quot;https://github.com/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/keyboard_create.sh&quot;,&quot;user_id&quot;:51998297}}" data-hydro-click-hmac="4f840aa971abe75f1be3e7101b42e24b69158e5066f8b17068f3e2b54222e878" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (0)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Starred
@@ -2037,13 +2037,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-7c5512">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-e52ecd">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-7c5512"
+        id="filter-menu-e52ecd"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2064,9 +2064,9 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/drakumus/AcheronSetup/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="kfQYcpGXt1yR6DnZBUk267YtoWf_4M44kRt_GoWanAQ49FYnD-9W6CC3Fv74OYN7AXCmnSN_TP5u1cJW4z7FqA" autocomplete="off" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/drakumus/AcheronSetup/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="lVF8gg-i7IrLTA8XrwgN0bnAxQ9OXrd1nLbCs7uW4-k8UTLXkdoNPnoTIDBSeLhBDp3C9ZLBNbNjeH__3TK6RQ" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:491586081,&quot;originating_url&quot;:&quot;https://github.com/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/README.md&quot;,&quot;user_id&quot;:51998297}}" data-hydro-click-hmac="4d0fb13c0b91de79707e885485eb3ea452b88c1abd167b9ca921ed7c126e3130" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (0)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:491586081,&quot;originating_url&quot;:&quot;https://github.com/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/keyboard_create.sh&quot;,&quot;user_id&quot;:51998297}}" data-hydro-click-hmac="b411385f1fe785dcd0e7515a243de892f94b5d13ef921ffcf6bcb32b6a67421d" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (0)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Star
@@ -2084,13 +2084,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-7c5512">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-e52ecd">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-7c5512"
+        id="filter-menu-e52ecd"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2261,7 +2261,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/drakumus/AcheronSetup/blob/9a198640f54a6d2b05eb1dc98daae21c8f0881b7/keyboard_creator/README.md">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/drakumus/AcheronSetup/blob/9a198640f54a6d2b05eb1dc98daae21c8f0881b7/keyboard_creator/keyboard_create.sh">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2269,7 +2269,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:491586081,&quot;originating_url&quot;:&quot;https://github.com/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/README.md&quot;,&quot;user_id&quot;:51998297}}" data-hydro-click-hmac="86d07e76c4bcb89f23f1c486ae28e909fa85270e5a996939767a0ad3af5f527c">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:491586081,&quot;originating_url&quot;:&quot;https://github.com/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/keyboard_create.sh&quot;,&quot;user_id&quot;:51998297}}" data-hydro-click-hmac="b019df77c6a81edb3fe59a44c433e9e1b97645b4c03efc87cf747fb547f3f53b">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -2350,7 +2350,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/drakumus/AcheronSetup/blob/{{ urlEncodedRefName }}/keyboard_creator/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/drakumus/AcheronSetup/blob/{{ urlEncodedRefName }}/keyboard_creator/keyboard_create.sh" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2392,7 +2392,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/drakumus/AcheronSetup/blob/{{ urlEncodedRefName }}/keyboard_creator/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/drakumus/AcheronSetup/blob/{{ urlEncodedRefName }}/keyboard_creator/keyboard_create.sh" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2453,7 +2453,7 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/drakumus/AcheronSetup/tree/update-readme"><span>AcheronSetup</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/drakumus/AcheronSetup/tree/update-readme/keyboard_creator"><span>keyboard_creator</span></a></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/drakumus/AcheronSetup/tree/update-readme"><span>AcheronSetup</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/drakumus/AcheronSetup/tree/update-readme/keyboard_creator"><span>keyboard_creator</span></a></span><span class="separator">/</span><strong class="final-path">keyboard_create.sh</strong>
   </h2>
     <a href="/drakumus/AcheronSetup/find/update-readme" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
@@ -2464,7 +2464,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:491586081,&quot;originating_url&quot;:&quot;https://github.com/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/README.md&quot;,&quot;user_id&quot;:51998297}}" data-hydro-click-hmac="469a339a7f1c7dff660ae38432d1648efdc9e26dd7a019e0871c539aa005d770" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/drakumus/AcheronSetup/find/update-readme">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:491586081,&quot;originating_url&quot;:&quot;https://github.com/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/keyboard_create.sh&quot;,&quot;user_id&quot;:51998297}}" data-hydro-click-hmac="0d2082462c37bb7166ff1835ca3cc9c53e05762d0a036246721fa1c5510284c3" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/drakumus/AcheronSetup/find/update-readme">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2476,13 +2476,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="keyboard_creator/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="keyboard_creator/keyboard_create.sh" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/drakumus/AcheronSetup/blob/9a198640f54a6d2b05eb1dc98daae21c8f0881b7/keyboard_creator/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/drakumus/AcheronSetup/blob/9a198640f54a6d2b05eb1dc98daae21c8f0881b7/keyboard_creator/keyboard_create.sh" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2514,7 +2514,7 @@
     <include-fragment src="/drakumus/AcheronSetup/spoofed_commit_check/9a198640f54a6d2b05eb1dc98daae21c8f0881b7" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/drakumus/AcheronSetup/contributors/update-readme/keyboard_creator/README.md" class="commit-loader">
+  <include-fragment src="/drakumus/AcheronSetup/contributors/update-readme/keyboard_creator/keyboard_create.sh" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2537,95 +2537,36 @@
 
 
 
-    <readme-toc>
-
+  
     <div data-target="readme-toc.content" class="Box mt-3 position-relative">
       
   <div
-    class="Box-header js-blob-header blob-header js-sticky js-position-sticky top-0 p-2 d-flex flex-shrink-0 flex-md-row flex-items-center"
-    style="position: sticky; z-index: 1;"
+    class="Box-header js-blob-header py-2 pr-2 d-flex flex-shrink-0 flex-md-row flex-items-center"
+    
   >
-
-      <details
-  data-target="readme-toc.trigger"
-  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:491586081,&quot;originating_url&quot;:&quot;https://github.com/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/README.md&quot;,&quot;user_id&quot;:51998297}}"
-  data-menu-hydro-click-hmac="a15014370b3d9ac7d1844ef1654212a2f367b79d487349601eeea86459975c33"
-  class="dropdown details-reset details-overlay"
->
-  <summary
-    class="btn btn-octicon m-0 mr-2 p-2"
-    aria-haspopup="true"
-    aria-label="Table of Contents">
-    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-list-unordered">
-    <path fill-rule="evenodd" d="M2 4a1 1 0 100-2 1 1 0 000 2zm3.75-1.5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zM3 8a1 1 0 11-2 0 1 1 0 012 0zm-1 6a1 1 0 100-2 1 1 0 000 2z"></path>
-</svg>
-  </summary>
-
-
-  <details-menu class="SelectMenu" role="menu">
-    <div class="SelectMenu-modal rounded-3 mt-1" style="max-height:340px;">
-
-        <div class="SelectMenu-filter">
-          <input
-            class="SelectMenu-input form-control js-filterable-field"
-            id="toc-filter-field"
-            type="text"
-            autocomplete="off"
-            spellcheck="false"
-            autofocus
-            placeholder="Filter headings"
-            aria-label="Filter headings">
-        </div>
-
-      <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;" data-filterable-for="toc-filter-field" data-filterable-type="substring">
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:491586081,&quot;originating_url&quot;:&quot;https://github.com/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/README.md&quot;,&quot;user_id&quot;:51998297}}" data-hydro-click-hmac="1e04d16f1de1a5d8897502278c1b5257961c19ea7a22929bb644bc6610a60cc0" href="#acheron-project-keyboard-creator">Acheron Project Keyboard Creator</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:491586081,&quot;originating_url&quot;:&quot;https://github.com/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/README.md&quot;,&quot;user_id&quot;:51998297}}" data-hydro-click-hmac="1e04d16f1de1a5d8897502278c1b5257961c19ea7a22929bb644bc6610a60cc0" href="#introduction">Introduction</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:491586081,&quot;originating_url&quot;:&quot;https://github.com/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/README.md&quot;,&quot;user_id&quot;:51998297}}" data-hydro-click-hmac="1e04d16f1de1a5d8897502278c1b5257961c19ea7a22929bb644bc6610a60cc0" href="#usage">Usage</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:491586081,&quot;originating_url&quot;:&quot;https://github.com/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/README.md&quot;,&quot;user_id&quot;:51998297}}" data-hydro-click-hmac="1e04d16f1de1a5d8897502278c1b5257961c19ea7a22929bb644bc6610a60cc0" href="#arguments">Arguments</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:491586081,&quot;originating_url&quot;:&quot;https://github.com/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/README.md&quot;,&quot;user_id&quot;:51998297}}" data-hydro-click-hmac="1e04d16f1de1a5d8897502278c1b5257961c19ea7a22929bb644bc6610a60cc0" href="#options">Options</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:491586081,&quot;originating_url&quot;:&quot;https://github.com/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/README.md&quot;,&quot;user_id&quot;:51998297}}" data-hydro-click-hmac="1e04d16f1de1a5d8897502278c1b5257961c19ea7a22929bb644bc6610a60cc0" href="#design-notes">Design notes</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:491586081,&quot;originating_url&quot;:&quot;https://github.com/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/README.md&quot;,&quot;user_id&quot;:51998297}}" data-hydro-click-hmac="1e04d16f1de1a5d8897502278c1b5257961c19ea7a22929bb644bc6610a60cc0" href="#usage-comments">Usage comments</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:491586081,&quot;originating_url&quot;:&quot;https://github.com/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/README.md&quot;,&quot;user_id&quot;:51998297}}" data-hydro-click-hmac="1e04d16f1de1a5d8897502278c1b5257961c19ea7a22929bb644bc6610a60cc0" href="#notes-on-tolerances">Notes on tolerances</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:491586081,&quot;originating_url&quot;:&quot;https://github.com/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/README.md&quot;,&quot;user_id&quot;:51998297}}" data-hydro-click-hmac="1e04d16f1de1a5d8897502278c1b5257961c19ea7a22929bb644bc6610a60cc0" href="#notes-on-copper-pours">Notes on copper pours</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:491586081,&quot;originating_url&quot;:&quot;https://github.com/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/README.md&quot;,&quot;user_id&quot;:51998297}}" data-hydro-click-hmac="1e04d16f1de1a5d8897502278c1b5257961c19ea7a22929bb644bc6610a60cc0" href="#used-tolerances">Used tolerances</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 48px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:491586081,&quot;originating_url&quot;:&quot;https://github.com/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/README.md&quot;,&quot;user_id&quot;:51998297}}" data-hydro-click-hmac="1e04d16f1de1a5d8897502278c1b5257961c19ea7a22929bb644bc6610a60cc0" href="#important">IMPORTANT!</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:491586081,&quot;originating_url&quot;:&quot;https://github.com/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/README.md&quot;,&quot;user_id&quot;:51998297}}" data-hydro-click-hmac="1e04d16f1de1a5d8897502278c1b5257961c19ea7a22929bb644bc6610a60cc0" href="#overall-design-recommendations">Overall design recommendations</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:491586081,&quot;originating_url&quot;:&quot;https://github.com/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/README.md&quot;,&quot;user_id&quot;:51998297}}" data-hydro-click-hmac="1e04d16f1de1a5d8897502278c1b5257961c19ea7a22929bb644bc6610a60cc0" href="#references">References</a>
-      </div>
-    </div>
-  </details-menu>
-</details>
 
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
       <span class="file-mode" title="File mode">executable file</span>
       <span class="file-info-divider"></span>
-      174 lines (123 sloc)
+      445 lines (394 sloc)
       <span class="file-info-divider"></span>
     18 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
-        <div class="BtnGroup">
-      <a href="/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/README.md?plain=1" data-permalink-href="/drakumus/AcheronSetup/blob/9a198640f54a6d2b05eb1dc98daae21c8f0881b7/keyboard_creator/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
-    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
-</svg>
-</a>      <a href="/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/README.md" data-permalink-href="/drakumus/AcheronSetup/blob/9a198640f54a6d2b05eb1dc98daae21c8f0881b7/keyboard_creator/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
-    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 00.25-.25V6h-2.75A1.75 1.75 0 019 4.25V1.5H3.75zm6.75.062V4.25c0 .138.112.25.25.25h2.688a.252.252 0 00-.011-.013l-2.914-2.914a.272.272 0 00-.013-.011zM2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16h-9.5A1.75 1.75 0 012 14.25V1.75z"></path>
-</svg>
-</a>  </div>
-
+      
 
     <div class="BtnGroup">
-        <a data-permalink-href="/drakumus/AcheronSetup/raw/9a198640f54a6d2b05eb1dc98daae21c8f0881b7/keyboard_creator/README.md" href="/drakumus/AcheronSetup/raw/update-readme/keyboard_creator/README.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/drakumus/AcheronSetup/blame/9a198640f54a6d2b05eb1dc98daae21c8f0881b7/keyboard_creator/README.md" href="/drakumus/AcheronSetup/blame/update-readme/keyboard_creator/README.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/drakumus/AcheronSetup/raw/9a198640f54a6d2b05eb1dc98daae21c8f0881b7/keyboard_creator/keyboard_create.sh" href="/drakumus/AcheronSetup/raw/update-readme/keyboard_creator/keyboard_create.sh" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/drakumus/AcheronSetup/blame/9a198640f54a6d2b05eb1dc98daae21c8f0881b7/keyboard_creator/keyboard_create.sh" href="/drakumus/AcheronSetup/blame/update-readme/keyboard_creator/keyboard_create.sh" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" >
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/drakumus/AcheronSetup/edit/update-readme/keyboard_creator/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="-Gts86O7HC0YLviFHuzdMz-lSPaFiknR-iqTkqVpVAz4ijhXtrgAgJTrmVTg2pw1x0oC10RGStcAZrrLZZTjeA" autocomplete="off" />
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/drakumus/AcheronSetup/edit/update-readme/keyboard_creator/keyboard_create.sh" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="boqid5pxyY6uRBgHizGl1zxZ9mIJTwxngwTyERgoNJDAj3Xa0GBjWRAv2OEZBdmzi4HPMSWygPNTvhQYYHcJEg" autocomplete="off" />
       <button title="Edit the file in your fork of this project" data-hotkey="e" data-disable-with="" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
@@ -2635,7 +2576,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/drakumus/AcheronSetup/edit/update-readme/keyboard_creator/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Tgn7sideVdUEgscf88WWSDwFoZ3vhLf3RdkQSdzcKOlO6K8WMl1JeIhHps4N89dOxOrrvC5ItPG_lTkQHCGfnQ" autocomplete="off" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/drakumus/AcheronSetup/edit/update-readme/keyboard_creator/keyboard_create.sh" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="x5CJaMnboE2Nyt49Nix2qTMx9mgElTwisrYf_D6FsGZplV7Fg8oKmjOhHtukGArNhOnPOyhosLZiDPn1RtqN5A" autocomplete="off" />
               <button title="Edit the file in your fork of this project" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -2643,7 +2584,7 @@
               <div class="mr-5 no-wrap">Open in github.dev</div>
               <div class="color-fg-muted">.</div>
 </a>
-            <a data-platforms="windows,mac" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/drakumus/AcheronSetup?branch=update-readme&amp;filepath=keyboard_creator%2FREADME.md" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
+            <a data-platforms="windows,mac" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/drakumus/AcheronSetup?branch=update-readme&amp;filepath=keyboard_creator%2Fkeyboard_create.sh" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
               Open in GitHub Desktop
 </a>        </div>
       </div>
@@ -2654,10 +2595,10 @@
 
         
 <div >
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/drakumus/AcheronSetup/raw/9a198640f54a6d2b05eb1dc98daae21c8f0881b7/keyboard_creator/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/drakumus/AcheronSetup/raw/9a198640f54a6d2b05eb1dc98daae21c8f0881b7/keyboard_creator/keyboard_create.sh" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:491586081,&quot;originating_url&quot;:&quot;https://github.com/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/README.md&quot;,&quot;user_id&quot;:51998297}}" data-hydro-click-hmac="0d9b064d039271e9c67bb7a3705353cd7889b33da5502bc5f4a848d6d659b7ce" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:491586081,&quot;originating_url&quot;:&quot;https://github.com/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/keyboard_create.sh&quot;,&quot;user_id&quot;:51998297}}" data-hydro-click-hmac="f815b65e37c3f9b629208dff22fa35b73780a714d651445163fb9c620e72335f" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2682,7 +2623,7 @@
 </remote-clipboard-copy></div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/drakumus/AcheronSetup/delete/update-readme/keyboard_creator/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="WRPlsJfC3Mg7i5UqB1woWu0EoLTY-3qffHS8dQxi7aFZL8-i35GRwm6-dSDj3fNOj-GGTrCLUjNzFNgO_tRz9Q" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/drakumus/AcheronSetup/delete/update-readme/keyboard_creator/keyboard_create.sh" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="XGlPLANFOMMwvGcUlfJ8swh8bEDv-yRRfAdaiK8JHvjdLbrGY5FvNZVnWGNcQiJRm6v-I-bspnV-BweHAB49bg" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete the file in your fork of this project" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2695,7 +2636,7 @@
     <div class="d-flex hide-lg hide-xl flex-order-2 flex-grow-0">
       <details class="dropdown details-reset details-overlay d-inline-block">
         <summary
-          class="js-blob-dropdown-click btn-octicon p-2"
+          class="js-blob-dropdown-click btn-octicon"
           aria-haspopup="true"
           aria-label="possible actions"
           
@@ -2710,20 +2651,20 @@
             <li>
                 <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
                    data-platforms="windows,mac"
-                   href="x-github-client://openRepo/https://github.com/drakumus/AcheronSetup?branch=update-readme&amp;filepath=keyboard_creator%2FREADME.md">
+                   href="x-github-client://openRepo/https://github.com/drakumus/AcheronSetup?branch=update-readme&amp;filepath=keyboard_creator%2Fkeyboard_create.sh">
                   Open with Desktop
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/drakumus/AcheronSetup/raw/update-readme/keyboard_creator/README.md">
+            <a class="dropdown-item" href="/drakumus/AcheronSetup/raw/update-readme/keyboard_creator/keyboard_create.sh">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/drakumus/AcheronSetup/raw/update-readme/keyboard_creator/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/drakumus/AcheronSetup/raw/update-readme/keyboard_creator/keyboard_create.sh" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:491586081,&quot;originating_url&quot;:&quot;https://github.com/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/README.md&quot;,&quot;user_id&quot;:51998297}}" data-hydro-click-hmac="0d9b064d039271e9c67bb7a3705353cd7889b33da5502bc5f4a848d6d659b7ce">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:491586081,&quot;originating_url&quot;:&quot;https://github.com/drakumus/AcheronSetup/blob/update-readme/keyboard_creator/keyboard_create.sh&quot;,&quot;user_id&quot;:51998297}}" data-hydro-click-hmac="f815b65e37c3f9b629208dff22fa35b73780a714d651445163fb9c620e72335f">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2746,20 +2687,20 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/drakumus/AcheronSetup/blame/update-readme/keyboard_creator/README.md">
+              <a class="dropdown-item" href="/drakumus/AcheronSetup/blame/update-readme/keyboard_creator/keyboard_create.sh">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/drakumus/AcheronSetup/edit/update-readme/keyboard_creator/README.md">Edit file</a>
+                <a class="dropdown-item" href="/drakumus/AcheronSetup/edit/update-readme/keyboard_creator/keyboard_create.sh">Edit file</a>
               </li>
                 <li>
                   <a data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:491586081,&quot;actor_id&quot;:51998297,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/" data-view-component="true" class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/drakumus/AcheronSetup/delete/update-readme/keyboard_creator/README.md">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/drakumus/AcheronSetup/delete/update-readme/keyboard_creator/keyboard_create.sh">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2767,245 +2708,1900 @@
 </div>
 
 
-        <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1 dir="auto"><a id="user-content-acheron-project-keyboard-creator" class="anchor" aria-hidden="true" href="#acheron-project-keyboard-creator"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Acheron Project Keyboard Creator</h1>
-<p dir="auto">A tool to create a KiCAD keyboard project using the Acheron Libraries.</p>
-<p dir="auto">This keyboard creator tool also encloses the tolerances and rules used for the Acheron Project in the keyboard PCB projects, uniformizing their design.</p>
-<h2 dir="auto"><a id="user-content-introduction" class="anchor" aria-hidden="true" href="#introduction"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Introduction</h2>
-<p dir="auto">The Acheron Keyboard Creator tool is a bash-script tool aimed at automating the process of creating a KiCAD PCB project for a keyboard PCB. The produced files are ready-to-use and can be edited and modified using the latest KiCAD nightly (november 4, 2021 or newer) and include configuration settings such as copper clearance and tolerance, soldermask clearance and minimum width aimed at being compatible across multiple factories. This script has been developed and tested in bash. It also functions in git bash; no other platform or terminal was tested.</p>
-<p dir="auto">The joker templates are documented <a href="http://acheronproject.com/multimcu_article/multimcu_article/" rel="nofollow">here</a>. <strong>BE SURE TO READ THIS DOCUMENTATION</strong>. These templates will contain a microcontroller footprint with ancillary components that make the resulting PCB compatible with a myriad of microcontrollers.</p>
-<h2 dir="auto"><a id="user-content-usage" class="anchor" aria-hidden="true" href="#usage"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Usage</h2>
-<p dir="auto">Execute <code>./keybaord\_create.sh \[options\] \[arguments\]</code></p>
-<p dir="auto">This will, in this order,</p>
-<ul dir="auto">
-<li>Initialize the root folder as a git repository and change the current repository name to <code>main</code>;</li>
-<li>Create a folder <code>kicad_files</code> with:
-<ul dir="auto">
-<li>A KiCAD project file <code>project.kicad_pro</code></li>
-<li>A KiCAD PCB layout file <code>project.kicad_pcb</code></li>
-<li>A KiCAD schematic file <code>project.kicad_sch</code></li>
-<li>A KiCAD libraries backup file <code>project.kicad_prl</code></li>
-<li>A symbol library table <code>sym-lib-table</code></li>
-<li>A footprint library table <code>fp-lib-table</code></li>
-</ul>
-</li>
-<li>Create a libraries folder <code>./kicad_files/libraries</code> folder where the following libraries will be added. Each library is automatically added to the respective library tables:
-<ul dir="auto">
-<li>acheron_Symbols</li>
-<li>acheron_Components.pretty</li>
-<li>acheron_Connectors.pretty</li>
-<li>acheron_Hardware.pretty</li>
-<li>acheron_MX.pretty <strong>(*)</strong></li>
-<li>acheron_Graphics.pretty</li>
-<li>acheron_Logos.pretty</li>
-</ul>
-</li>
-</ul>
-<p dir="auto">In the end the <code>./kicad_files</code> folder will contain a fully working KiCAD project with ready to use added libraries.</p>
-<h2 dir="auto"><a id="user-content-arguments" class="anchor" aria-hidden="true" href="#arguments"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Arguments</h2>
-<p dir="auto">These are the required arguments for the script to execute. Defaults are found in parentheses after each</p>
-<ul dir="auto">
-<li><code>[-t, --template]</code> Choose what template to use. ('BLANK')
-<ul dir="auto">
-<li><code>BLANK</code> f or a blank PCB with pre-configured settings</li>
-<li><code>J48</code> for the 48-pin joker template</li>
-<li><code>J64</code> for teh 64-pin joker template</li>
-</ul>
-</li>
-<li><code>[-p, --projectname]</code> Sets the names of the kicad project files ('project')</li>
-<li><code>[-kd, --kicaddir]</code> Choose the project parent folder name ('kicad_files')</li>
-<li><code>[-ld, --libdir]</code> Choose the folder inside KICADDIR where libraries and submodules are added. ('libraries')</li>
-<li><code>[-s, --switchtype]</code> Select what switch type library submodule to be added. ('MX')
-<ul dir="auto">
-<li><code>MX</code> for <a href="https://github.com/AcheronProject/acheron_MX.pretty">simple MX support</a></li>
-<li><code>MX_soldermask</code> for <a href="https://github.com/AcheronProject/acheron_MX_soldermask.pretty">MX support with covered front switches</a></li>
-<li><code>MXA</code> for <a href="https://github.com/AcheronProject/acheron_MXA.pretty">MX and Alps suport</a></li>
-<li><code>MXH</code> for <a href="https://github.com/AcheronProject/acheron_MXH.pretty">MX hostwap</a></li>
-</ul>
-</li>
-</ul>
-<h2 dir="auto"><a id="user-content-options" class="anchor" aria-hidden="true" href="#options"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Options</h2>
-<p dir="auto">Additionally, the following optional flags are available.</p>
-<ul dir="auto">
-<li><code>[-h, --help]</code> Displays a help message and exits.</li>
-<li><code>[-v, --verbose]</code> Enable verbose logging.</li>
-<li><code>[-pc, --purgeclean]</code> Deletes all generated files before execution (*.git folders and files and the KICADDIR), leaving only the original repository, and proceeds normal execution.  WARNING: deletions are definitive!</li>
-<li><code>[-cc, --cleancreate]</code>  Creates cleanly, removing all base files including this script, leaving only the final files.  WARNING: deletions are definitive!</li>
-<li><code>[-ng, --nographics]</code> Do not include graphics library submodule.</li>
-<li><code>[-nl, --nologos]</code> Do not include logos library submodule.</li>
-<li><code>[-n3, --no3d]</code> Do not include 3D models library submodule.</li>
-<li><code>[-nr, --norepo]</code>  Do not init a git repository.</li>
-<li><code>[-ns, --nosubmodule]</code> Do not add libraries as git submodules. (Note: if the --norepo flag is not passed, a git repository will still be initiated).</li>
-</ul>
-<h2 dir="auto"><a id="user-content-design-notes" class="anchor" aria-hidden="true" href="#design-notes"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Design notes</h2>
-<p dir="auto">The PCB files generated contain a myriad of information regarding tolerances, usage and copper pours. These informations are replicated here.</p>
-<h3 dir="auto"><a id="user-content-usage-comments" class="anchor" aria-hidden="true" href="#usage-comments"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Usage comments</h3>
-<p dir="auto">This PCB file was generated through the Acheron Setup script, an automated tool to generate design-ready KiCAD schematic and PCB files for keyboard projects; it is offered under a no-liability, as-is clause. Please visit <a href="http://github.com/AcheronProject/AcheronSetup">http://github.com/AcheronProject/AcheronSetup</a> for more information.</p>
-<p dir="auto">The files generated are compatible with KiCAD developmental ("nightly") versions up to august 16, 2021 version. These files should also be accompanied of a librires folder where the used libraries are added as submodules which last commit should point to the remote's HEAD; please note that the files need such libraries to fully work.</p>
-<p dir="auto">For requests/issues please submit a issue in the github folder. Do not attempt to contact the developers directly. We ask that bugs/problems be reported through the issues page too.</p>
-<h3 dir="auto"><a id="user-content-notes-on-tolerances" class="anchor" aria-hidden="true" href="#notes-on-tolerances"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Notes on tolerances</h3>
-<p dir="auto">The manufacturing tolerances used for PCBs in the Acheron Project are a way to uniformize the design settings of the projects. These settings were obtained using mainly three manufacturers: PCBWay, Elecrow and JLCPCB (see their capabilities pages on references [1-3]). These are big players in the asian PCB manufacturing market and the tolerances practiced by them are accepted industry-wide; hence, the values used here should be enough for most manufacturers.</p>
-<p dir="auto">It must also be kept in mind that, since the Acheron Project is heavily DIY-oriented, the tolerance settings used were the easiest or cheapest available. For instance, Elecrow offers "standard PCB" and "advanced PCB" services ([2]), while PCBWay offers "normal difficulty", "medium difficulty" and "high difficulty" processes ([3]). In both manufacturers, the advanced settings have smaller tolerances and better manufacturing features but are significantly more expensive, specially when paired with PCB assembly services. Such settings are meant for more complex projects (high-speed or analog signal processing, finer electronic components, high-density designs etc) and are completely unnecessary for keyboard projects.</p>
-<p dir="auto">Therefore, it must always be understood that a single body of uniform tolerances throughout a wide spectrum of projects is unfeasible due to the very nature  and requirements of the different PCB projects. The values suggested here used in these files are only <em>recommendations</em> based on experience, having been used in a myriad of projects throughout the Acheron Project and in Gondolindrim's personal and professional projects.</p>
-<p dir="auto">The tolerances used might seem too loose or big, but these are the bare large-scale manufacturable values found through experience using multiple factories.</p>
-<p dir="auto">Adjust the values at your own discretion, but be very mindful of these tolerances as they are imperative for the manufacturing process and feasibility of the final PCB.</p>
-<p dir="auto">The values used divide into two groups: the "factory minimums " and the "recommended minimum" ones.</p>
-<ul dir="auto">
-<li>"Factory" are the values minimally feasible needed by factories. Different ones will inevitably have different numbers, but through using multiple a common denominator was found. These values should not be used often, but seldomly at the designer's discretion and in ultimate case. Their use will incurr in higher manufacturing fees, larger lead times, more quality check issues (PCBs failing after large production).</li>
-<li>Recommended are the smalles tolerances doable with no fabrication or quality control issues. These can be safely used without incurring in higher costs or major large-scale production issues. There is no particular reason for any of these but experience through usage of many factories. This KiCAD file was set to use the recommended values in its Design Rule Checks and routines; these values were used successfully throughout the Acheron Project and are proven to work.</li>
-</ul>
-<p dir="auto">Keep in mind that these are, after all, minimum values. Always try to stray away from them when there is chance, so as to give you and the factory headroom to work with. The actually used values can very well vary according to your specifications and the capabilities of the factory being used. For the actual values, check references [1-3].</p>
-<p dir="auto"><strong>TLDR</strong> (you should read it all though)</p>
-<ul dir="auto">
-<li>The values used are based on experience but should be manufacturable at low cost and accepted industry-wide</li>
-<li>Such values <em>should</em> be enough for keyboard PCBs</li>
-<li>Manufacturing parameters might change in which case the tolerance values will change accordingly</li>
-<li>You can freely change these parameters around but make sure what those changes entail to, cost and production-wise</li>
-<li>If you are beggining on PCB design or are using a new fab, it might be wise to just use the values here for now</li>
-</ul>
-<h3 dir="auto"><a id="user-content-notes-on-copper-pours" class="anchor" aria-hidden="true" href="#notes-on-copper-pours"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Notes on copper pours</h3>
-<p dir="auto">Many DIY designers will state that the usage of copper pours is perfeccionism; in some cases, designers will argue that the pours are actually detrimental to the design, while I (gondolindrim) disagree with the former I agree with the latter in some respects. Ground pours are an integral part of digital high-speed signal design; since most (if not all) modern keyboards work under USB communication which uses differential pair topology, a ground copper pour is absolutely needed to ensure proper return currents paths, low ground impedance, EMI resistance, efficiency in ESD protection, protection from overheating, and so on. Particularly in keyboard PCBs, however, the copper pours make the PCBs stiffer, reducing what is known as "flex". The way to countermeasure that is by deploying flex cuts (also known as relief cuts) or leaf-spring mounting points. Use copper pours are your discretion but I (Gondolindrim) recommend always using them. My designs make liberal use of such pours even for other signals.</p>
-<p dir="auto">At the bottom-right of the page there is a copper polygon with the settings generally used for the Acheron Project. The values are tuned for general use, but adjustments can be made. Thermal spoke width and relief gap can be adjusted according to the thermal needs -- for THT components or connectors, it is recommended to use higher gaps (0.5mm will do the trick) to avoid bad solder joints.</p>
-<p dir="auto">Avoid using hatched-pattern copper pours. They have their reason to be, but not on keyboard PCBs. They are ugly (yeah, fight me) and don't do what we want them to do here. Always use solid fills. The drawback is that they can make the PCB stiffer, so use flex cuts on the PCB.</p>
-<h3 dir="auto"><a id="user-content-used-tolerances" class="anchor" aria-hidden="true" href="#used-tolerances"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Used tolerances</h3>
-<h4 dir="auto"><a id="user-content-important" class="anchor" aria-hidden="true" href="#important"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>IMPORTANT!</h4>
-<p dir="auto">The values and observations here listed consider a two-layer, 1 oz/ft² copper weight PCB setting. A change in these parameters (layers and copper weight) will unequivocably change the minimum values. Values also pertain to the cheapest setting on the referenced manufacturers. Therefore even for a 2-layer 1oz/ft2 PCB tolerances can be different for the "advanced" or "high-difficulty" settings.</p>
-<p dir="auto">DO NOT use these values in other settings; always coordinate properly with the factory for that. All values are given in milimeters. For clarification, read the NOTES ON TOLERANCES.</p>
-<table>
-<thead>
-<tr>
-<th align="left"><strong>Tolerance</strong></th>
-<th align="center"><strong>Factory minimums</strong></th>
-<th align="center"><strong>Recommended minimums</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left"><strong>Track width</strong></td>
-<td align="center">0.15</td>
-<td align="center">0.2</td>
-</tr>
-<tr>
-<td align="left"><strong>Copper clearance</strong> (i)</td>
-<td align="center">0.15</td>
-<td align="center">0.2</td>
-</tr>
-<tr>
-<td align="left"><strong>VIA hole</strong></td>
-<td align="center">0.2</td>
-<td align="center">0.3</td>
-</tr>
-<tr>
-<td align="left"><strong>VIA annular width</strong></td>
-<td align="center">0.13</td>
-<td align="center">0.15</td>
-</tr>
-<tr>
-<td align="left"><strong>VIA diameter</strong></td>
-<td align="center">0.4</td>
-<td align="center">0.6</td>
-</tr>
-<tr>
-<td align="left"><strong>Copper-to-hole clearance</strong> (iii)</td>
-<td align="center">0.3</td>
-<td align="center">0.35</td>
-</tr>
-<tr>
-<td align="left"><strong>Copper-to-edge clearance</strong></td>
-<td align="center">0.2</td>
-<td align="center">0.5</td>
-</tr>
-<tr>
-<td align="left"><strong>Minimum through hole drill</strong></td>
-<td align="center">0.2</td>
-<td align="center">0.3</td>
-</tr>
-<tr>
-<td align="left"><strong>Hole-to-hole clearance</strong></td>
-<td align="center">0.5</td>
-<td align="center">0.5</td>
-</tr>
-<tr>
-<td align="left"><strong>Silkscreen character height</strong></td>
-<td align="center">0.8</td>
-<td align="center">1.0</td>
-</tr>
-<tr>
-<td align="left"><strong>Silkscreen trace width</strong></td>
-<td align="center">0.15</td>
-<td align="center">0.2</td>
-</tr>
-<tr>
-<td align="left"><strong>Silkscreen character height-to-trace ratio</strong></td>
-<td align="center">1:6</td>
-<td align="center">1:5</td>
-</tr>
-<tr>
-<td align="left"><strong>Pad-to-silkscreen clearance</strong></td>
-<td align="center">0.15</td>
-<td align="center">0.2</td>
-</tr>
-<tr>
-<td align="left"><strong>Soldermask expansion</strong></td>
-<td align="center">0.05</td>
-<td align="center">0.1</td>
-</tr>
-<tr>
-<td align="left"><strong>Minimum soldermask bridge</strong></td>
-<td align="center">0.2</td>
-<td align="center">0.25</td>
-</tr>
-</tbody>
-</table>
-<p dir="auto"><em>All measurements in mm</em>.</p>
-<p dir="auto"><strong>Observations:</strong></p>
-<ul dir="auto">
-<li>[i] Official copper-copper clearances are 0.2mm but not exactly "all copper". Pad-to-pad minimums are 0.5mm in the case of THT pads and 0.2mm for SMD pads.</li>
-<li>[ii] The recommended ratio between silkscreen character height and its trace width so they are clearly legible.</li>
-<li>[iii] The hole-to-copper clearance changes on occasion. For instance, via-to-track and NPTH-to-track clearance is 0.25mm but PTH-to-track is 0.3.</li>
-<li>[iv] The distance of copper-to-edge is a big problem for fabs in designs where traces need to be close to certain slots or the edges, like keyboard PCBs with flex cuts where the PCB traces need to be routed close to the flex cuts for lack of real-estate. This is why this value is much higer than the fabrication ones.</li>
-<li>[v] The 1:6 ratio for silkscreen is OK for large characters but can become unreadable to the naked eye on a 1mm character. A 1:5 ratio is recommended.</li>
-</ul>
-<h3 dir="auto"><a id="user-content-overall-design-recommendations" class="anchor" aria-hidden="true" href="#overall-design-recommendations"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Overall design recommendations</h3>
-<ul dir="auto">
-<li>
-<p dir="auto">The first experience with PCB design is always very frustrating and overwhelming. There will be a lot of failed prototypes before you consider yourself a minimally good PCB designer, and there is always something to learn. Since PCB design is a highly technical and skill-oriented field, it can sometimes looks as some sorte of black magic. Do not stray from resilience. The best way to learn PCB design is designing. Some study in the fundamental aspects of electronics and embedded systems is also recommended, but higher education in maths and engineering is absolutely not needed to be a DIY designer.</p>
-</li>
-<li>
-<p dir="auto">Sharing your design and knowledge is one of the most fruitful and effective ways to learn design and gain knowledge. Look at other people's designs and frequently talk to other designers. This ensures a collective knowledge is achieved both in hard and soft skills.</p>
-</li>
-<li>
-<p dir="auto">PCB design involves a lot of creativity and not everyone understands your codes and conventions. Take good care of documenting your PCB. Some tips:</p>
-<ul dir="auto">
-<li>(1) Make liberal use of the F.Fab and B.Fab layers. Those should be used for documentation which you want to relay to your fab house. Component pinage and polarity, values, designators, everything goes to make the fab's job easier -- and yours in the process.</li>
-<li>(2) Treat the silkscreen layers with very good care. Make sure that the component designators are minimally sized (1mm tall with 0.2mm trace width is advised), visible. Also make sure that the silkscreen indicates the polarity of components either through arrows or symbols. Remember that the physical PCB does not accompany its files; when someone looks at the PCB, component designators and polarities should be very clear and direct.</li>
-<li>(3) KiCAD allows custom user layers. Use those to indicate screw hole anchors/sizes, plate markings, stabilizer orientation. Document everything because in the eventuality you want to make a revision or correction, all the information is in the files and not somewhere else buried deep down in emails or Discord chats.</li>
-<li>(4) If you want to share or open-source your design, be kind and make sure all your thought process or ideas are clearly documented and defined. Revising a PCB, much like a computer code or a maths test, requires knowledge that is either a convention or only the author knows.</li>
-<li>(5) Yes, documenting is boring. Everyone knows that, and yet everyone takes the time to do it because it saves you time and headaches down the line.</li>
-</ul>
-</li>
-<li>
-<p dir="auto">Even though keyboard PCB design is very forgiving in terms of the mistakes and errors you can make, there are some problems that are potentially PCB-breaking. The most common problems for first-timers in keyboard PCB design are (1) USB data traces routing (2) crystal traces routing and (3) bypass capacitors placement and routing. In this order, they are the most problematic parts of designing a keyboard PCB and are the most frequent issues.</p>
-<ul dir="auto">
-<li><strong>(1) USB DATA TRACES:</strong> make sure to route them as short as possible, parallel to one another. Also learn to use the phase skew adjustment tool of KiCAD. Avoid breaking and VIA'ing them as much as possible. If those are needed, do so in a simmetrical manner. If also possible, please read on differential pair  communication (see [4], pages 331-344).</li>
-<li><strong>(2) CRYSTAL TRACES:</strong> these are the highest frequency traces on the PCB and should be handled with extreme care. Always place the crystal extremely close to the MCU (in its vicinities) and if possible sharing the same ground (ideally islanded).</li>
-<li><strong>(3) BYPASS CAPACITORS:</strong> the precise function and nature of bypass (also called decoupling) capacitors is difficult to explain without higher knowledge in maths and engineering. In layman's terms, bypass capacitors are placed to mitigate noise inherently present in digital circuits due to the natural inductance of traces and the switching characteristic of digital circuitry. Failure to properly place and route these capacitors can lead to inability of the digital circuits to work properly. In the specific case of keyboard PCBs, there are plenty of digital circuits that need decoupling, mainly the microcontroller, RGB underglow LEDs and level shifters. Treat bypass capacitors like you would a crystal: as close to the main device as possible and with short traces. Always look at datasheets, reference manuals and application notes which will generally inform how many capacitors are needed and their respective values and sizes.</li>
-</ul>
-</li>
-</ul>
-<h2 dir="auto"><a id="user-content-references" class="anchor" aria-hidden="true" href="#references"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>References</h2>
-<ul dir="auto">
-<li>[1] PCBWay manufacturing capabilities. Link: <a href="https://www.pcbway.com/capabilities.html" rel="nofollow">https://www.pcbway.com/capabilities.html</a>. Last access august 21, 2021.</li>
-<li>[2] JLCPCB manufacturing capabilities. Link: <a href="https://jlcpcb.com/capabilities/Capabilities" rel="nofollow">https://jlcpcb.com/capabilities/Capabilities</a>. Last accessed august 21, 2021.</li>
-<li>[3] Elecrow manufacturing capabilities. Link: <a href="https://www.elecrow.com/download/quote/PCB_Specification_FAQ.pdf" rel="nofollow">https://www.elecrow.com/download/quote/PCB_Specification_FAQ.pdf</a> . Last access august 21, 2021.</li>
-<li>[4] Sanjeeb Mishra, Neeraj Kumar Singh, Vijayakrishnan Rousseau. System on Chip Interfaces for Low Power Design. Morgan Kaufmann, 2016. ISBN 9780128016305. Accessible via <a href="https://www.sciencedirect.com/science/article/pii/B9780128016305000104" rel="nofollow">https://www.sciencedirect.com/science/article/pii/B9780128016305000104</a>)</li>
-</ul>
-</article>
-  </div>
+      
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-shell  gist-border-0">
+
+        
+<div class="js-check-bidi js-blob-code-container blob-code-content">
+
+  <template class="js-file-alert-template">
+  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+  
+    <span>
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      <a href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
+    </span>
+
+
+  <div data-view-component="true" class="flash-action">        <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">    Show hidden characters
+</a>
+</div>
+</div></template>
+<template class="js-line-alert-template">
+  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+</span></template>
+
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="Shell" data-tagsearch-path="keyboard_creator/keyboard_create.sh">
+        <tr>
+          <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#!</span>/usr/bin/env bash</span></td>
+        </tr>
+        <tr>
+          <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Defining the keyboard creator script commands</span></td>
+        </tr>
+        <tr>
+          <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> execute  `./keyboard_create.sh -h` for more information</span></td>
+        </tr>
+        <tr>
+          <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> ANSI terminal colors (see &#39;man tput&#39;) ----- {{{1</span></td>
+        </tr>
+        <tr>
+          <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> See &#39;man tput&#39; and https://linuxtidbits.wordpress.com/2008/08/11/output-color-on-bash-scripts/. Don&#39;t use color if there isn&#39;t a $TERM environment variable.</span></td>
+        </tr>
+        <tr>
+          <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line">BOLD=<span class="pl-s"><span class="pl-pds">$(</span>tput bold<span class="pl-pds">)</span></span><span class="pl-k">;</span> <span class="pl-k">readonly</span> BOLD</td>
+        </tr>
+        <tr>
+          <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line">RED=<span class="pl-s"><span class="pl-pds">$(</span>tput setaf 1<span class="pl-pds">)</span></span><span class="pl-k">;</span> <span class="pl-k">readonly</span> RED</td>
+        </tr>
+        <tr>
+          <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line">GREEN=<span class="pl-s"><span class="pl-pds">$(</span>tput setaf 2<span class="pl-pds">)</span></span><span class="pl-k">;</span> <span class="pl-k">readonly</span> GREEN</td>
+        </tr>
+        <tr>
+          <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line">YELLOW=<span class="pl-s"><span class="pl-pds">$(</span>tput setaf 3<span class="pl-pds">)</span></span><span class="pl-k">;</span> <span class="pl-k">readonly</span> YELLOW</td>
+        </tr>
+        <tr>
+          <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line">BLUE=<span class="pl-s"><span class="pl-pds">$(</span>tput setaf 4<span class="pl-pds">)</span></span><span class="pl-k">;</span> <span class="pl-k">readonly</span> BLUE</td>
+        </tr>
+        <tr>
+          <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line">MAGENTA=<span class="pl-s"><span class="pl-pds">$(</span>tput setaf 5<span class="pl-pds">)</span></span><span class="pl-k">;</span> <span class="pl-k">readonly</span> MAGENTA</td>
+        </tr>
+        <tr>
+          <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line">WHITE=<span class="pl-s"><span class="pl-pds">$(</span>tput setaf 7<span class="pl-pds">)</span></span><span class="pl-k">;</span> <span class="pl-k">readonly</span> WHITE</td>
+        </tr>
+        <tr>
+          <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line">RESET=<span class="pl-s"><span class="pl-pds">$(</span>tput sgr0<span class="pl-pds">)</span></span><span class="pl-k">;</span> <span class="pl-k">readonly</span> RESET</td>
+        </tr>
+        <tr>
+          <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span>}}}1</span></td>
+        </tr>
+        <tr>
+          <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Default commands ------------------------------------------------------------------------- {{{1</span></td>
+        </tr>
+        <tr>
+          <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line"><span class="pl-k">readonly</span> CP_COMMAND=<span class="pl-s"><span class="pl-pds">&#39;</span>/usr/bin/env cp<span class="pl-pds">&#39;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line"><span class="pl-k">readonly</span> GIT_COMMAND=<span class="pl-s"><span class="pl-pds">&#39;</span>/usr/bin/env git<span class="pl-pds">&#39;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line"><span class="pl-k">readonly</span> MKDIR_COMMAND=<span class="pl-s"><span class="pl-pds">&#39;</span>/usr/bin/env mkdir<span class="pl-pds">&#39;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line"><span class="pl-k">readonly</span> PERL_COMMAND=<span class="pl-s"><span class="pl-pds">&#39;</span>/usr/bin/env perl<span class="pl-pds">&#39;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line"><span class="pl-k">readonly</span> RM_COMMAND=<span class="pl-s"><span class="pl-pds">&#39;</span>/usr/bin/env rm<span class="pl-pds">&#39;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span>}}}1</span></td>
+        </tr>
+        <tr>
+          <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
+          <td id="LC24" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
+          <td id="LC25" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Default values -------------------------------------------------------------------------- {{{1</span></td>
+        </tr>
+        <tr>
+          <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
+          <td id="LC26" class="blob-code blob-code-inner js-file-line"><span class="pl-k">readonly</span> LIBDIR=<span class="pl-s"><span class="pl-pds">&#39;</span>libraries<span class="pl-pds">&#39;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
+          <td id="LC27" class="blob-code blob-code-inner js-file-line"><span class="pl-k">readonly</span> KICADDIR=<span class="pl-s"><span class="pl-pds">&#39;</span>kicad_files<span class="pl-pds">&#39;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
+          <td id="LC28" class="blob-code blob-code-inner js-file-line"><span class="pl-k">readonly</span> ACRNPRJ_REPO=<span class="pl-s"><span class="pl-pds">&#39;</span>git@github.com:AcheronProject<span class="pl-pds">&#39;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
+          <td id="LC29" class="blob-code blob-code-inner js-file-line"><span class="pl-k">readonly</span> ALLOWED_SWITCHTYPES=(MX MX_soldermask MXA MXH)</td>
+        </tr>
+        <tr>
+          <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
+          <td id="LC30" class="blob-code blob-code-inner js-file-line"><span class="pl-k">readonly</span> ALLOWED_TEMPLATES=(BLANK J48 J64)</td>
+        </tr>
+        <tr>
+          <td id="L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
+          <td id="LC31" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
+          <td id="LC32" class="blob-code blob-code-inner js-file-line">VERBOSE=0</td>
+        </tr>
+        <tr>
+          <td id="L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
+          <td id="LC33" class="blob-code blob-code-inner js-file-line">OUTPUT_REDIRECTION=<span class="pl-s"><span class="pl-pds">&#39;</span>&amp;&gt;/dev/null<span class="pl-pds">&#39;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L34" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="34"></td>
+          <td id="LC34" class="blob-code blob-code-inner js-file-line">NOGRAPHICS=0</td>
+        </tr>
+        <tr>
+          <td id="L35" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="35"></td>
+          <td id="LC35" class="blob-code blob-code-inner js-file-line">NO3D=0</td>
+        </tr>
+        <tr>
+          <td id="L36" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="36"></td>
+          <td id="LC36" class="blob-code blob-code-inner js-file-line">NOLOGOS=0</td>
+        </tr>
+        <tr>
+          <td id="L37" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="37"></td>
+          <td id="LC37" class="blob-code blob-code-inner js-file-line">NO_GIT_REPO=0</td>
+        </tr>
+        <tr>
+          <td id="L38" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="38"></td>
+          <td id="LC38" class="blob-code blob-code-inner js-file-line">NO_GIT_SUBMODULES=0</td>
+        </tr>
+        <tr>
+          <td id="L39" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="39"></td>
+          <td id="LC39" class="blob-code blob-code-inner js-file-line">CLEANCREATE=0</td>
+        </tr>
+        <tr>
+          <td id="L40" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="40"></td>
+          <td id="LC40" class="blob-code blob-code-inner js-file-line">PURGECLEAN=0</td>
+        </tr>
+        <tr>
+          <td id="L41" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="41"></td>
+          <td id="LC41" class="blob-code blob-code-inner js-file-line">SWITCHTYPE=<span class="pl-s"><span class="pl-pds">&#39;</span>MX<span class="pl-pds">&#39;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L42" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="42"></td>
+          <td id="LC42" class="blob-code blob-code-inner js-file-line">PRJNAME=<span class="pl-s"><span class="pl-pds">&#39;</span>project<span class="pl-pds">&#39;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L43" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="43"></td>
+          <td id="LC43" class="blob-code blob-code-inner js-file-line">TEMPLATE=<span class="pl-s"><span class="pl-pds">&#39;</span>BLANK<span class="pl-pds">&#39;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L44" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="44"></td>
+          <td id="LC44" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span>}}}1</span></td>
+        </tr>
+        <tr>
+          <td id="L45" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="45"></td>
+          <td id="LC45" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L46" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="46"></td>
+          <td id="LC46" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Printing functions ----------------------------------------------------------------------------- {{{1</span></td>
+        </tr>
+        <tr>
+          <td id="L47" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="47"></td>
+          <td id="LC47" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Prints to STDOUT</span></td>
+        </tr>
+        <tr>
+          <td id="L48" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="48"></td>
+          <td id="LC48" class="blob-code blob-code-inner js-file-line"><span class="pl-k">function</span> <span class="pl-en">echo2stdout()</span> {</td>
+        </tr>
+        <tr>
+          <td id="L49" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="49"></td>
+          <td id="LC49" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$@</span><span class="pl-pds">&quot;</span></span> <span class="pl-k">&gt;&amp;1</span></td>
+        </tr>
+        <tr>
+          <td id="L50" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="50"></td>
+          <td id="LC50" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L51" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="51"></td>
+          <td id="LC51" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L52" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="52"></td>
+          <td id="LC52" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Prints to STDOUT</span></td>
+        </tr>
+        <tr>
+          <td id="L53" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="53"></td>
+          <td id="LC53" class="blob-code blob-code-inner js-file-line"><span class="pl-k">function</span> <span class="pl-en">echo2stderr()</span> {</td>
+        </tr>
+        <tr>
+          <td id="L54" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="54"></td>
+          <td id="LC54" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$@</span><span class="pl-pds">&quot;</span></span> <span class="pl-k">&gt;&amp;2</span></td>
+        </tr>
+        <tr>
+          <td id="L55" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="55"></td>
+          <td id="LC55" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L56" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="56"></td>
+          <td id="LC56" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L57" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="57"></td>
+          <td id="LC57" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Prints to STDOUT if verbose mode is enabled</span></td>
+        </tr>
+        <tr>
+          <td id="L58" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="58"></td>
+          <td id="LC58" class="blob-code blob-code-inner js-file-line"><span class="pl-k">function</span> <span class="pl-en">verbose_logging()</span> {</td>
+        </tr>
+        <tr>
+          <td id="L59" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="59"></td>
+          <td id="LC59" class="blob-code blob-code-inner js-file-line">	[[ <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${VERBOSE}</span><span class="pl-pds">&quot;</span></span> <span class="pl-k">-eq</span> 1 ]] <span class="pl-k">&amp;&amp;</span> echo2stdout <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$@</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L60" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="60"></td>
+          <td id="LC60" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L61" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="61"></td>
+          <td id="LC61" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> }}}1</span></td>
+        </tr>
+        <tr>
+          <td id="L62" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="62"></td>
+          <td id="LC62" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L63" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="63"></td>
+          <td id="LC63" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Usage function -------------------------------------------------------------------------------- {{{1</span></td>
+        </tr>
+        <tr>
+          <td id="L64" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="64"></td>
+          <td id="LC64" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> This function displays the usage section of the code/</span></td>
+        </tr>
+        <tr>
+          <td id="L65" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="65"></td>
+          <td id="LC65" class="blob-code blob-code-inner js-file-line"><span class="pl-k">function</span> <span class="pl-en">usage()</span> {</td>
+        </tr>
+        <tr>
+          <td id="L66" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="66"></td>
+          <td id="LC66" class="blob-code blob-code-inner js-file-line">	echo2stderr <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${BOLD}</span>ACHERON PROJECT KEYBOARD CREATOR TOOL <span class="pl-smi">${RESET}</span></span></td>
+        </tr>
+        <tr>
+          <td id="L67" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="67"></td>
+          <td id="LC67" class="blob-code blob-code-inner js-file-line"><span class="pl-s"><span class="pl-smi">${BOLD}</span>Created by:<span class="pl-smi">${RESET}</span> Álvaro <span class="pl-cce">\&quot;</span>Gondolindrim<span class="pl-cce">\&quot;</span> Volpato</span></td>
+        </tr>
+        <tr>
+          <td id="L68" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="68"></td>
+          <td id="LC68" class="blob-code blob-code-inner js-file-line"><span class="pl-s"><span class="pl-smi">${BOLD}</span>Link:<span class="pl-smi">${RESET}</span> https://acheronproject.com/acheron_setup/acheron_setup/</span></td>
+        </tr>
+        <tr>
+          <td id="L69" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="69"></td>
+          <td id="LC69" class="blob-code blob-code-inner js-file-line"><span class="pl-s"><span class="pl-smi">${BOLD}</span>Version:<span class="pl-smi">${RESET}</span> 1.0 (november 4, 2021)</span></td>
+        </tr>
+        <tr>
+          <td id="L70" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="70"></td>
+          <td id="LC70" class="blob-code blob-code-inner js-file-line"><span class="pl-s"><span class="pl-smi">${BOLD}</span>Description: <span class="pl-smi">${RESET}</span>The Acheron Keyboard Creator tool is a bash-script tool aimed at automating the process of creating a KiCAD PCB project for a keyboard PCB. The produced files are ready-to-use and can be edited and modified using the latest KiCAD nightly (november 4, 2021 or newer) and include configuration settings such as copper clearance and tolerance, soldermask clearance and minimum width aimed at being compatible across multiple factories.</span></td>
+        </tr>
+        <tr>
+          <td id="L71" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="71"></td>
+          <td id="LC71" class="blob-code blob-code-inner js-file-line"><span class="pl-s"><span class="pl-smi">${BOLD}</span>Usage: <span class="pl-smi">$0</span> [options] [arguments] (Note: <span class="pl-smi">${GREEN}</span>green<span class="pl-smi">${WHITE}</span> values signal default values. Options and arguments are case-sensitive.)</span></td>
+        </tr>
+        <tr>
+          <td id="L72" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="72"></td>
+          <td id="LC72" class="blob-code blob-code-inner js-file-line"><span class="pl-s"><span class="pl-smi">${GREEN}</span>&gt;&gt;<span class="pl-smi">${BOLD}${WHITE}</span> Arguments:<span class="pl-smi">${RESET}</span></span></td>
+        </tr>
+        <tr>
+          <td id="L73" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="73"></td>
+          <td id="LC73" class="blob-code blob-code-inner js-file-line"><span class="pl-s">	<span class="pl-smi">${BOLD}</span>[-t,  --template]<span class="pl-smi">${RESET}</span>	Choose what template to use. <span class="pl-smi">${BOLD}</span>Options are:</span></td>
+        </tr>
+        <tr>
+          <td id="L74" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="74"></td>
+          <td id="LC74" class="blob-code blob-code-inner js-file-line"><span class="pl-s">						<span class="pl-smi">${WHITE}</span>- <span class="pl-smi">${GREEN}</span>&#39;BLANK&#39;<span class="pl-smi">${WHITE}</span> for a blank PCB with pre-configured settings</span></td>
+        </tr>
+        <tr>
+          <td id="L75" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="75"></td>
+          <td id="LC75" class="blob-code blob-code-inner js-file-line"><span class="pl-s">						- &#39;J48&#39; for the 48-pin joker template</span></td>
+        </tr>
+        <tr>
+          <td id="L76" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="76"></td>
+          <td id="LC76" class="blob-code blob-code-inner js-file-line"><span class="pl-s">						- &#39;J64&#39; for the 64-pin joker template<span class="pl-smi">${RESET}</span></span></td>
+        </tr>
+        <tr>
+          <td id="L77" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="77"></td>
+          <td id="LC77" class="blob-code blob-code-inner js-file-line"><span class="pl-s">	<span class="pl-smi">${BOLD}</span>[-p,  --projectname]<span class="pl-smi">${RESET}</span>	Sets the names of the kicad project files. <span class="pl-smi">${BOLD}${GREEN}</span>(&#39;project&#39;)<span class="pl-smi">${RESET}</span></span></td>
+        </tr>
+        <tr>
+          <td id="L78" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="78"></td>
+          <td id="LC78" class="blob-code blob-code-inner js-file-line"><span class="pl-s">	<span class="pl-smi">${BOLD}</span>[-kd, --kicaddir]<span class="pl-smi">${RESET}</span>	Chooses the project parent folder name <span class="pl-smi">${BOLD}${GREEN}</span>(&#39;kicad_files&#39;)<span class="pl-smi">${RESET}</span></span></td>
+        </tr>
+        <tr>
+          <td id="L79" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="79"></td>
+          <td id="LC79" class="blob-code blob-code-inner js-file-line"><span class="pl-s">	<span class="pl-smi">${BOLD}</span>[-ld, --libdir]<span class="pl-smi">${RESET}</span>		Chooses the folder inside KICADDIR where libraries and submodules are added. <span class="pl-smi">${BOLD}${GREEN}</span>(&#39;libraries&#39;)<span class="pl-smi">${RESET}</span></span></td>
+        </tr>
+        <tr>
+          <td id="L80" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="80"></td>
+          <td id="LC80" class="blob-code blob-code-inner js-file-line"><span class="pl-s">	<span class="pl-smi">${BOLD}</span>[-s,  --switchtype]<span class="pl-smi">${RESET}</span>	Select what switch type library submodule to be added. <span class="pl-smi">${BOLD}</span>Options are:</span></td>
+        </tr>
+        <tr>
+          <td id="L81" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="81"></td>
+          <td id="LC81" class="blob-code blob-code-inner js-file-line"><span class="pl-s">						<span class="pl-smi">${WHITE}</span>- <span class="pl-smi">${GREEN}</span>&#39;MX&#39;<span class="pl-smi">${WHITE}</span> for simple MX support (https://github.com/AcheronProject/acheron_MX.pretty)</span></td>
+        </tr>
+        <tr>
+          <td id="L82" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="82"></td>
+          <td id="LC82" class="blob-code blob-code-inner js-file-line"><span class="pl-s">						- &#39;MX_soldermask&#39; for MX support with covered front switches (https://github.com/AcheronProject/acheron_MX_soldermask.pretty)</span></td>
+        </tr>
+        <tr>
+          <td id="L83" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="83"></td>
+          <td id="LC83" class="blob-code blob-code-inner js-file-line"><span class="pl-s">						- &#39;MXA&#39; for MX and Alps suport (https://github.com/AcheronProject/acheron_MXA.pretty)</span></td>
+        </tr>
+        <tr>
+          <td id="L84" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="84"></td>
+          <td id="LC84" class="blob-code blob-code-inner js-file-line"><span class="pl-s">						- &#39;MXH&#39; for MX hostwap (https://github.com/AcheronProject/acheron_MXH.pretty)</span></td>
+        </tr>
+        <tr>
+          <td id="L85" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="85"></td>
+          <td id="LC85" class="blob-code blob-code-inner js-file-line"><span class="pl-s"><span class="pl-smi">${GREEN}</span>&gt;&gt;<span class="pl-smi">${WHITE}</span> Options:<span class="pl-smi">${RESET}</span></span></td>
+        </tr>
+        <tr>
+          <td id="L86" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="86"></td>
+          <td id="LC86" class="blob-code blob-code-inner js-file-line"><span class="pl-s">	<span class="pl-smi">${BOLD}</span>[-h,  --help]<span class="pl-smi">${RESET}</span>		Displays this message and exists.</span></td>
+        </tr>
+        <tr>
+          <td id="L87" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="87"></td>
+          <td id="LC87" class="blob-code blob-code-inner js-file-line"><span class="pl-s">	<span class="pl-smi">${BOLD}</span>[-v,  --verbose]<span class="pl-smi">${RESET}</span>	Enable verbose logging.</span></td>
+        </tr>
+        <tr>
+          <td id="L88" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="88"></td>
+          <td id="LC88" class="blob-code blob-code-inner js-file-line"><span class="pl-s">	<span class="pl-smi">${BOLD}</span>[-pc, --purgeclean]<span class="pl-smi">${RESET}</span>	Deletes all generated files before execution (*.git folders and files and the KICADDIR), leaving only the original repository, and proceeds normal execution. <span class="pl-smi">${BOLD}${RED}</span> WARNING: deletions are definitive! <span class="pl-smi">${GREEN}</span>(F)<span class="pl-smi">${RESET}</span></span></td>
+        </tr>
+        <tr>
+          <td id="L89" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="89"></td>
+          <td id="LC89" class="blob-code blob-code-inner js-file-line"><span class="pl-s">	<span class="pl-smi">${BOLD}</span>[-cc, --cleancreate]<span class="pl-smi">${RESET}</span>	Creates cleanly, removing all base files including this script, leaving only the final files. <span class="pl-smi">${BOLD}${RED}</span> WARNING: deletions are definitive! <span class="pl-smi">${GREEN}</span>(F)<span class="pl-smi">${RESET}</span></span></td>
+        </tr>
+        <tr>
+          <td id="L90" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="90"></td>
+          <td id="LC90" class="blob-code blob-code-inner js-file-line"><span class="pl-s">	<span class="pl-smi">${BOLD}</span>[-ng, --nographics]<span class="pl-smi">${RESET}</span>	Do not include graphics library submodule. <span class="pl-smi">${BOLD}${GREEN}</span>(F)<span class="pl-smi">${RESET}</span></span></td>
+        </tr>
+        <tr>
+          <td id="L91" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="91"></td>
+          <td id="LC91" class="blob-code blob-code-inner js-file-line"><span class="pl-s">	<span class="pl-smi">${BOLD}</span>[-nl, --nologos]<span class="pl-smi">${RESET}</span>	Do not include logos library submodule. <span class="pl-smi">${BOLD}${GREEN}</span>(F)<span class="pl-smi">${RESET}</span></span></td>
+        </tr>
+        <tr>
+          <td id="L92" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="92"></td>
+          <td id="LC92" class="blob-code blob-code-inner js-file-line"><span class="pl-s">	<span class="pl-smi">${BOLD}</span>[-n3, --no3d]<span class="pl-smi">${RESET}</span>		Do not include 3D models library submodule. <span class="pl-smi">${BOLD}${GREEN}</span>(F)<span class="pl-smi">${RESET}</span></span></td>
+        </tr>
+        <tr>
+          <td id="L93" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="93"></td>
+          <td id="LC93" class="blob-code blob-code-inner js-file-line"><span class="pl-s">	<span class="pl-smi">${BOLD}</span>[-nr, --norepo]<span class="pl-smi">${RESET}</span>		Do not init a git repository. <span class="pl-smi">${BOLD}${GREEN}</span>(F)<span class="pl-smi">${RESET}</span></span></td>
+        </tr>
+        <tr>
+          <td id="L94" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="94"></td>
+          <td id="LC94" class="blob-code blob-code-inner js-file-line"><span class="pl-s">	<span class="pl-smi">${BOLD}</span>[-ns, --nosubmodule]<span class="pl-smi">${RESET}</span>	Do not add libraries as git submodules. (Note: if the --norepo flag is not passed, a git repository will still be initiated). <span class="pl-smi">${BOLD}${GREEN}</span>(F)<span class="pl-smi">${RESET}</span></span></td>
+        </tr>
+        <tr>
+          <td id="L95" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="95"></td>
+          <td id="LC95" class="blob-code blob-code-inner js-file-line"><span class="pl-s"><span class="pl-smi">${RESET}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L96" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="96"></td>
+          <td id="LC96" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L97" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="97"></td>
+          <td id="LC97" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> }}}1</span></td>
+        </tr>
+        <tr>
+          <td id="L98" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="98"></td>
+          <td id="LC98" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L99" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="99"></td>
+          <td id="LC99" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> kicad_setup function ---------------------- {{{1</span></td>
+        </tr>
+        <tr>
+          <td id="L100" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="100"></td>
+          <td id="LC100" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> kicad_setup is a function that checks if kicaddir exists; if not, creates it; then copies the files in joker_template to kicaddir and adds symbol and footprint library tables.</span></td>
+        </tr>
+        <tr>
+          <td id="L101" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="101"></td>
+          <td id="LC101" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> This function takes one argument: &quot;TEMPLATE_NAME&quot;, which can be &quot;blank&quot;, &quot;joker48&quot; or &quot;joker64&quot; pertaining to each available template.</span></td>
+        </tr>
+        <tr>
+          <td id="L102" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="102"></td>
+          <td id="LC102" class="blob-code blob-code-inner js-file-line"><span class="pl-en">kicad_setup</span>() {</td>
+        </tr>
+        <tr>
+          <td id="L103" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="103"></td>
+          <td id="LC103" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> TEMPLATE_NAME=<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$1</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L104" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="104"></td>
+          <td id="LC104" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> TEMPLATE_DIR=<span class="pl-s"><span class="pl-pds">&#39;</span>blank_template<span class="pl-pds">&#39;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L105" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="105"></td>
+          <td id="LC105" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> TEMPLATE_FILENAME=<span class="pl-s"><span class="pl-pds">&#39;</span>blank<span class="pl-pds">&#39;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L106" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="106"></td>
+          <td id="LC106" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L107" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="107"></td>
+          <td id="LC107" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> [[ <span class="pl-k">-z</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${TEMPLATE_NAME}</span><span class="pl-pds">&quot;</span></span> ]]<span class="pl-k">;</span> <span class="pl-k">then</span></td>
+        </tr>
+        <tr>
+          <td id="L108" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="108"></td>
+          <td id="LC108" class="blob-code blob-code-inner js-file-line">		echo2stderr <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${RED}${BOLD}</span>&gt;&gt; ERROR<span class="pl-smi">${WHITE}</span> on function kicad_setup():<span class="pl-smi">${RESET}</span> no argument passed.<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L109" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="109"></td>
+          <td id="LC109" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">return</span> 0</td>
+        </tr>
+        <tr>
+          <td id="L110" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="110"></td>
+          <td id="LC110" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">fi</span></td>
+        </tr>
+        <tr>
+          <td id="L111" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="111"></td>
+          <td id="LC111" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L112" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="112"></td>
+          <td id="LC112" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">case</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${TEMPLATE_NAME}</span><span class="pl-pds">&quot;</span></span> <span class="pl-k">in</span></td>
+        </tr>
+        <tr>
+          <td id="L113" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="113"></td>
+          <td id="LC113" class="blob-code blob-code-inner js-file-line">		BLANK)</td>
+        </tr>
+        <tr>
+          <td id="L114" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="114"></td>
+          <td id="LC114" class="blob-code blob-code-inner js-file-line">			;;</td>
+        </tr>
+        <tr>
+          <td id="L115" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="115"></td>
+          <td id="LC115" class="blob-code blob-code-inner js-file-line">		J48)</td>
+        </tr>
+        <tr>
+          <td id="L116" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="116"></td>
+          <td id="LC116" class="blob-code blob-code-inner js-file-line">			TEMPLATE_DIR=<span class="pl-s"><span class="pl-pds">&#39;</span>joker48_template<span class="pl-pds">&#39;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L117" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="117"></td>
+          <td id="LC117" class="blob-code blob-code-inner js-file-line">			TEMPLATE_FILENAME=<span class="pl-s"><span class="pl-pds">&#39;</span>joker48<span class="pl-pds">&#39;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L118" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="118"></td>
+          <td id="LC118" class="blob-code blob-code-inner js-file-line">			;;</td>
+        </tr>
+        <tr>
+          <td id="L119" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="119"></td>
+          <td id="LC119" class="blob-code blob-code-inner js-file-line">		J64)</td>
+        </tr>
+        <tr>
+          <td id="L120" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="120"></td>
+          <td id="LC120" class="blob-code blob-code-inner js-file-line">			TEMPLATE_DIR=<span class="pl-s"><span class="pl-pds">&#39;</span>joker64_template<span class="pl-pds">&#39;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L121" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="121"></td>
+          <td id="LC121" class="blob-code blob-code-inner js-file-line">			TEMPLATE_FILENAME=<span class="pl-s"><span class="pl-pds">&#39;</span>joker64<span class="pl-pds">&#39;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L122" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="122"></td>
+          <td id="LC122" class="blob-code blob-code-inner js-file-line">			;;</td>
+        </tr>
+        <tr>
+          <td id="L123" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="123"></td>
+          <td id="LC123" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">*</span>)</td>
+        </tr>
+        <tr>
+          <td id="L124" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="124"></td>
+          <td id="LC124" class="blob-code blob-code-inner js-file-line">			echo2stderr <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${RED}${BOLD}</span>&gt;&gt; ERROR<span class="pl-smi">${WHITE}</span> on function kicad_setup():<span class="pl-smi">${RESET}</span> TEMPLATE_NAME option &#39;<span class="pl-smi">${TEMPLATE_NAME}</span>&#39; unrecognized.<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L125" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="125"></td>
+          <td id="LC125" class="blob-code blob-code-inner js-file-line">			<span class="pl-k">return</span> 0</td>
+        </tr>
+        <tr>
+          <td id="L126" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="126"></td>
+          <td id="LC126" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">esac</span></td>
+        </tr>
+        <tr>
+          <td id="L127" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="127"></td>
+          <td id="LC127" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L128" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="128"></td>
+          <td id="LC128" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> [[ <span class="pl-k">!</span> <span class="pl-k">-d</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${KICADDIR}</span><span class="pl-pds">&quot;</span></span> ]]<span class="pl-k">;</span> <span class="pl-k">then</span></td>
+        </tr>
+        <tr>
+          <td id="L129" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="129"></td>
+          <td id="LC129" class="blob-code blob-code-inner js-file-line">		echo2stdout -e <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${BOLD}${RED}</span>&gt;&gt; KiCAD directory at <span class="pl-smi">${KICADDIR}</span> not found, Libraries directory at <span class="pl-smi">${KICADDIR}</span>/<span class="pl-smi">${LIBDIR}</span> not found.<span class="pl-smi">${WHITE}</span> Creating them...<span class="pl-smi">${RESET}</span> \c<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L130" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="130"></td>
+          <td id="LC130" class="blob-code blob-code-inner js-file-line">		<span class="pl-c1">eval</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${MKDIR_COMMAND}</span><span class="pl-pds">&quot;</span></span> -vp <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${KICADDIR}</span>/<span class="pl-smi">${LIBDIR}</span><span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${OUTPUT_REDIRECTION}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L131" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="131"></td>
+          <td id="LC131" class="blob-code blob-code-inner js-file-line">		echo2stdout <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${BOLD}${GREEN}</span>Done.<span class="pl-smi">${RESET}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L132" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="132"></td>
+          <td id="LC132" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">elif</span> [[ <span class="pl-k">!</span> <span class="pl-k">-d</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${KICADDIR}</span>/<span class="pl-smi">${LIBDIR}</span><span class="pl-pds">&quot;</span></span> ]]<span class="pl-k">;</span> <span class="pl-k">then</span></td>
+        </tr>
+        <tr>
+          <td id="L133" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="133"></td>
+          <td id="LC133" class="blob-code blob-code-inner js-file-line">		echo2stdout -e <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${BOLD}${GREEN}</span>&gt;&gt; KiCAD directory found at <span class="pl-smi">${KICADDIR}</span>.<span class="pl-smi">${RESET}</span><span class="pl-pds">&quot;</span></span> <span class="pl-k">;</span></td>
+        </tr>
+        <tr>
+          <td id="L134" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="134"></td>
+          <td id="LC134" class="blob-code blob-code-inner js-file-line">		echo2stdout -e <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${BOLD}${RED}</span>&gt;&gt; Libraries directory at <span class="pl-smi">${KICADDIR}</span>/<span class="pl-smi">${LIBDIR}</span> not found.<span class="pl-smi">${WHITE}</span> Creating it...<span class="pl-smi">${RESET}</span> \c<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L135" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="135"></td>
+          <td id="LC135" class="blob-code blob-code-inner js-file-line">		<span class="pl-c1">eval</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${MKDIR_COMMAND}</span><span class="pl-pds">&quot;</span></span> -v <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${KICADDIR}</span>/<span class="pl-smi">${LIBDIR}</span><span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${OUTPUT_REDIRECTION}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L136" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="136"></td>
+          <td id="LC136" class="blob-code blob-code-inner js-file-line">		echo2stdout <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${BOLD}${GREEN}</span>Done.<span class="pl-smi">${RESET}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L137" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="137"></td>
+          <td id="LC137" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">fi</span></td>
+        </tr>
+        <tr>
+          <td id="L138" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="138"></td>
+          <td id="LC138" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L139" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="139"></td>
+          <td id="LC139" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">eval</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${CP_COMMAND}</span><span class="pl-pds">&quot;</span></span> -v <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${TEMPLATE_DIR}</span>/<span class="pl-smi">${TEMPLATE_FILENAME}</span>.kicad_pro<span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${KICADDIR}</span>/<span class="pl-smi">${PRJNAME}</span>.kicad_pro<span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${OUTPUT_REDIRECTION}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L140" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="140"></td>
+          <td id="LC140" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">eval</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${CP_COMMAND}</span><span class="pl-pds">&quot;</span></span> -v <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${TEMPLATE_DIR}</span>/<span class="pl-smi">${TEMPLATE_FILENAME}</span>.kicad_pcb<span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${KICADDIR}</span>/<span class="pl-smi">${PRJNAME}</span>.kicad_pcb<span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${OUTPUT_REDIRECTION}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L141" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="141"></td>
+          <td id="LC141" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">eval</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${CP_COMMAND}</span><span class="pl-pds">&quot;</span></span> -v <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${TEMPLATE_DIR}</span>/<span class="pl-smi">${TEMPLATE_FILENAME}</span>.kicad_prl<span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${KICADDIR}</span>/<span class="pl-smi">${PRJNAME}</span>.kicad_prl<span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${OUTPUT_REDIRECTION}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L142" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="142"></td>
+          <td id="LC142" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">eval</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${CP_COMMAND}</span><span class="pl-pds">&quot;</span></span> -v <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${TEMPLATE_DIR}</span>/<span class="pl-smi">${TEMPLATE_FILENAME}</span>.kicad_sch<span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${KICADDIR}</span>/<span class="pl-smi">${PRJNAME}</span>.kicad_sch<span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${OUTPUT_REDIRECTION}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L143" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="143"></td>
+          <td id="LC143" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">eval</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${CP_COMMAND}</span><span class="pl-pds">&quot;</span></span> -v <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${TEMPLATE_DIR}</span>/sym-lib-table<span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${KICADDIR}</span>/sym-lib-table<span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${OUTPUT_REDIRECTION}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L144" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="144"></td>
+          <td id="LC144" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">eval</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${CP_COMMAND}</span><span class="pl-pds">&quot;</span></span> -v <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${TEMPLATE_DIR}</span>/fp-lib-table<span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${KICADDIR}</span>/fp-lib-table<span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${OUTPUT_REDIRECTION}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L145" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="145"></td>
+          <td id="LC145" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L146" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="146"></td>
+          <td id="LC146" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">return</span> 1</td>
+        </tr>
+        <tr>
+          <td id="L147" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="147"></td>
+          <td id="LC147" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L148" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="148"></td>
+          <td id="LC148" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span>}}}1</span></td>
+        </tr>
+        <tr>
+          <td id="L149" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="149"></td>
+          <td id="LC149" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L150" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="150"></td>
+          <td id="LC150" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> add_git_library function ----------------------- {{{1</span></td>
+        </tr>
+        <tr>
+          <td id="L151" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="151"></td>
+          <td id="LC151" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> The add_git_library function does exactly that: adds a library to the project from a git repository.</span></td>
+        </tr>
+        <tr>
+          <td id="L152" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="152"></td>
+          <td id="LC152" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> However, this can be done in two ways: either as a git submodule or simply cloning the library from its repository; the behavior depends on the NO_GIT_SUBMODULES flag set when the script is called.</span></td>
+        </tr>
+        <tr>
+          <td id="L153" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="153"></td>
+          <td id="LC153" class="blob-code blob-code-inner js-file-line"><span class="pl-en">add_git_library</span>() {</td>
+        </tr>
+        <tr>
+          <td id="L154" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="154"></td>
+          <td id="LC154" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> TARGET_LIBRARY=<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$1</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L155" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="155"></td>
+          <td id="LC155" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> NO_GIT_SUBMODULES=<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$2</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L156" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="156"></td>
+          <td id="LC156" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> TARGET_LIBRARY_GIT_REPO_URL=<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${ACRNPRJ_REPO}</span>/<span class="pl-smi">${TARGET_LIBRARY}</span>.git<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L157" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="157"></td>
+          <td id="LC157" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> exit_code=</td>
+        </tr>
+        <tr>
+          <td id="L158" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="158"></td>
+          <td id="LC158" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L159" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="159"></td>
+          <td id="LC159" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> [[ <span class="pl-k">-z</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${TARGET_LIBRARY}</span><span class="pl-pds">&quot;</span></span> ]]<span class="pl-k">;</span> <span class="pl-k">then</span></td>
+        </tr>
+        <tr>
+          <td id="L160" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="160"></td>
+          <td id="LC160" class="blob-code blob-code-inner js-file-line">		echo2stderr <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${RED}${BOLD}</span>&gt;&gt; ERROR<span class="pl-smi">${WHITE}</span> on function add_git_library():<span class="pl-smi">${RESET}</span> no argument passed.<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L161" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="161"></td>
+          <td id="LC161" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">return</span> 0</td>
+        </tr>
+        <tr>
+          <td id="L162" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="162"></td>
+          <td id="LC162" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">fi</span></td>
+        </tr>
+        <tr>
+          <td id="L163" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="163"></td>
+          <td id="LC163" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> [[ <span class="pl-k">-z</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${NO_GIT_SUBMODULES}</span><span class="pl-pds">&quot;</span></span> ]]<span class="pl-k">;</span> <span class="pl-k">then</span></td>
+        </tr>
+        <tr>
+          <td id="L164" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="164"></td>
+          <td id="LC164" class="blob-code blob-code-inner js-file-line">		echo2stderr <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${RED}${BOLD}</span>&gt;&gt; ERROR<span class="pl-smi">${WHITE}</span> on function add_git_library():<span class="pl-smi">${RESET}</span> not enough arguments passed (2 required, only 1 passed).<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L165" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="165"></td>
+          <td id="LC165" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">return</span> 0</td>
+        </tr>
+        <tr>
+          <td id="L166" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="166"></td>
+          <td id="LC166" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">fi</span></td>
+        </tr>
+        <tr>
+          <td id="L167" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="167"></td>
+          <td id="LC167" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L168" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="168"></td>
+          <td id="LC168" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> [[ <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${NO_GIT_SUBMODULES}</span><span class="pl-pds">&quot;</span></span> <span class="pl-k">-eq</span> 0 ]]<span class="pl-k">;</span> <span class="pl-k">then</span></td>
+        </tr>
+        <tr>
+          <td id="L169" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="169"></td>
+          <td id="LC169" class="blob-code blob-code-inner js-file-line">		echo2stdout -e <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${BOLD}</span>&gt;&gt; Adding <span class="pl-smi">${MAGENTA}${TARGET_LIBRARY}${WHITE}</span> library as a submodule from <span class="pl-smi">${BLUE}${BOLD}${TARGET_LIBRARY_GIT_REPO_URL}${RESET}</span> at <span class="pl-smi">${RED}${BOLD}</span><span class="pl-cce">\&quot;</span><span class="pl-smi">${KICADDIR}</span>/<span class="pl-smi">${LIBDIR}</span>/<span class="pl-smi">${TARGET_LIBRARY}</span><span class="pl-cce">\&quot;</span><span class="pl-smi">${RESET}</span> folder... \c<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L170" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="170"></td>
+          <td id="LC170" class="blob-code blob-code-inner js-file-line">		<span class="pl-c1">eval</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${GIT_COMMAND}</span><span class="pl-pds">&quot;</span></span> submodule add <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${TARGET_LIBRARY_GIT_REPO_URL}</span><span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${KICADDIR}</span>/<span class="pl-smi">${LIBDIR}</span>/<span class="pl-smi">${TARGET_LIBRARY}</span><span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${OUTPUT_REDIRECTION}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L171" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="171"></td>
+          <td id="LC171" class="blob-code blob-code-inner js-file-line">		exit_code=<span class="pl-smi">$?</span></td>
+        </tr>
+        <tr>
+          <td id="L172" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="172"></td>
+          <td id="LC172" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">else</span></td>
+        </tr>
+        <tr>
+          <td id="L173" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="173"></td>
+          <td id="LC173" class="blob-code blob-code-inner js-file-line">		echo2stdout -e <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${BOLD}</span>&gt;&gt; Cloning <span class="pl-smi">${MAGENTA}${TARGET_LIBRARY}${WHITE}</span> library from <span class="pl-smi">${BLUE}${BOLD}${TARGET_LIBRARY_GIT_REPO_URL}${RESET}</span> at <span class="pl-smi">${RED}${BOLD}</span><span class="pl-cce">\&quot;</span><span class="pl-smi">${KICADDIR}</span>/<span class="pl-smi">${LIBDIR}</span>/<span class="pl-smi">${TARGET_LIBRARY}</span><span class="pl-cce">\&quot;</span><span class="pl-smi">${RESET}</span> folder... \c<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L174" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="174"></td>
+          <td id="LC174" class="blob-code blob-code-inner js-file-line">		<span class="pl-c1">eval</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${GIT_COMMAND}</span><span class="pl-pds">&quot;</span></span> clone <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${TARGET_LIBRARY_GIT_REPO_URL}</span><span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${KICADDIR}</span>/<span class="pl-smi">${LIBDIR}</span>/<span class="pl-smi">${TARGET_LIBRARY}</span><span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${OUTPUT_REDIRECTION}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L175" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="175"></td>
+          <td id="LC175" class="blob-code blob-code-inner js-file-line">		exit_code=<span class="pl-smi">$?</span></td>
+        </tr>
+        <tr>
+          <td id="L176" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="176"></td>
+          <td id="LC176" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">fi</span></td>
+        </tr>
+        <tr>
+          <td id="L177" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="177"></td>
+          <td id="LC177" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L178" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="178"></td>
+          <td id="LC178" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> [[ <span class="pl-smi">${exit_code}</span> <span class="pl-k">-ne</span> 0 ]]<span class="pl-k">;</span> <span class="pl-k">then</span></td>
+        </tr>
+        <tr>
+          <td id="L179" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="179"></td>
+          <td id="LC179" class="blob-code blob-code-inner js-file-line">		echo2stderr <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${RED}${BOLD}</span>&gt;&gt; ERROR<span class="pl-smi">${WHITE}</span> on function add_git_library():<span class="pl-smi">${RESET}</span> an error occured when trying to clone <span class="pl-smi">${TARGET_LIBRARY_GIT_REPO_URL}</span>.<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L180" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="180"></td>
+          <td id="LC180" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">return</span> 0</td>
+        </tr>
+        <tr>
+          <td id="L181" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="181"></td>
+          <td id="LC181" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">fi</span></td>
+        </tr>
+        <tr>
+          <td id="L182" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="182"></td>
+          <td id="LC182" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L183" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="183"></td>
+          <td id="LC183" class="blob-code blob-code-inner js-file-line">	echo2stdout <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${BOLD}${GREEN}</span>Done.<span class="pl-smi">${RESET}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L184" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="184"></td>
+          <td id="LC184" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">return</span> 1</td>
+        </tr>
+        <tr>
+          <td id="L185" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="185"></td>
+          <td id="LC185" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L186" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="186"></td>
+          <td id="LC186" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span>}}}1</span></td>
+        </tr>
+        <tr>
+          <td id="L187" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="187"></td>
+          <td id="LC187" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L188" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="188"></td>
+          <td id="LC188" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> add_line_in_file function ----------------------- {{{1</span></td>
+        </tr>
+        <tr>
+          <td id="L189" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="189"></td>
+          <td id="LC189" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> This function inserts a line in a file at a specific line number using a Perl command</span></td>
+        </tr>
+        <tr>
+          <td id="L190" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="190"></td>
+          <td id="LC190" class="blob-code blob-code-inner js-file-line"><span class="pl-en">add_line_in_file</span>() {</td>
+        </tr>
+        <tr>
+          <td id="L191" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="191"></td>
+          <td id="LC191" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> LINE=<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$1</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L192" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="192"></td>
+          <td id="LC192" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> TARGET_FILE=<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$2</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L193" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="193"></td>
+          <td id="LC193" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> LINE_NUMBER=<span class="pl-smi">${3<span class="pl-k">:-</span>2}</span> <span class="pl-c"><span class="pl-c">#</span> Default line number is 2</span></td>
+        </tr>
+        <tr>
+          <td id="L194" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="194"></td>
+          <td id="LC194" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> PERL_ARGS=<span class="pl-s"><span class="pl-pds">&quot;</span>-i -l -p -e<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L195" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="195"></td>
+          <td id="LC195" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> exit_code=</td>
+        </tr>
+        <tr>
+          <td id="L196" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="196"></td>
+          <td id="LC196" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L197" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="197"></td>
+          <td id="LC197" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">eval</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${PERL_COMMAND}</span><span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${PERL_ARGS}</span><span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span>&#39;print &#39;\&#39;&#39;<span class="pl-smi">${LINE}</span>&#39;\&#39;&#39; if $. == <span class="pl-smi">${LINE_NUMBER}</span>&#39;<span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${TARGET_FILE}</span><span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${OUTPUT_REDIRECTION}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L198" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="198"></td>
+          <td id="LC198" class="blob-code blob-code-inner js-file-line">	exit_code=<span class="pl-smi">$?</span>  <span class="pl-c"><span class="pl-c">#</span> exit_code = 0 if the perl command was successfully executed</span></td>
+        </tr>
+        <tr>
+          <td id="L199" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="199"></td>
+          <td id="LC199" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L200" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="200"></td>
+          <td id="LC200" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> [[ <span class="pl-smi">${exit_code}</span> <span class="pl-k">-ne</span> 0 ]]<span class="pl-k">;</span> <span class="pl-k">then</span></td>
+        </tr>
+        <tr>
+          <td id="L201" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="201"></td>
+          <td id="LC201" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">return</span> 0</td>
+        </tr>
+        <tr>
+          <td id="L202" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="202"></td>
+          <td id="LC202" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">fi</span></td>
+        </tr>
+        <tr>
+          <td id="L203" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="203"></td>
+          <td id="LC203" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L204" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="204"></td>
+          <td id="LC204" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">return</span> 1</td>
+        </tr>
+        <tr>
+          <td id="L205" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="205"></td>
+          <td id="LC205" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L206" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="206"></td>
+          <td id="LC206" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span>}}}1</span></td>
+        </tr>
+        <tr>
+          <td id="L207" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="207"></td>
+          <td id="LC207" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L208" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="208"></td>
+          <td id="LC208" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> add_library function ----------------------- {{{1</span></td>
+        </tr>
+        <tr>
+          <td id="L209" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="209"></td>
+          <td id="LC209" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> This function calls the add_git_library and add_line_in_file functions. First, it adds the library from the the git repository, then depending on the IS_FOOTPRINT variable, it adds the library to KiCAD&#39;s library tables &quot;sym-lib-table&quot; and &quot;fp-lib-table&quot;.</span></td>
+        </tr>
+        <tr>
+          <td id="L210" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="210"></td>
+          <td id="LC210" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> It must be noted that these two files should not be created from scratch as they have a header and a footer; hence, the template folders contain unedited, blank version of these files.</span></td>
+        </tr>
+        <tr>
+          <td id="L211" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="211"></td>
+          <td id="LC211" class="blob-code blob-code-inner js-file-line"><span class="pl-en">add_library</span>() {</td>
+        </tr>
+        <tr>
+          <td id="L212" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="212"></td>
+          <td id="LC212" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> LIBRARY=<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$1</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L213" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="213"></td>
+          <td id="LC213" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> NO_GIT_SUBMODULES=<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$2</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L214" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="214"></td>
+          <td id="LC214" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> IS_FOOTPRINT=<span class="pl-smi">${3<span class="pl-k">:-</span>1}</span> <span class="pl-c"><span class="pl-c">#</span> Default is 0 =&gt; symbols library</span></td>
+        </tr>
+        <tr>
+          <td id="L215" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="215"></td>
+          <td id="LC215" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> PATH_TO_LIBRARY=</td>
+        </tr>
+        <tr>
+          <td id="L216" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="216"></td>
+          <td id="LC216" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> LIBRARY_TYPE=</td>
+        </tr>
+        <tr>
+          <td id="L217" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="217"></td>
+          <td id="LC217" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> LIBRARY_TABLE_FILE_PATH=</td>
+        </tr>
+        <tr>
+          <td id="L218" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="218"></td>
+          <td id="LC218" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> return_code=</td>
+        </tr>
+        <tr>
+          <td id="L219" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="219"></td>
+          <td id="LC219" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L220" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="220"></td>
+          <td id="LC220" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> [[ <span class="pl-smi">${IS_FOOTPRINT}</span> <span class="pl-k">-eq</span> 0 ]]<span class="pl-k">;</span> <span class="pl-k">then</span></td>
+        </tr>
+        <tr>
+          <td id="L221" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="221"></td>
+          <td id="LC221" class="blob-code blob-code-inner js-file-line">		PATH_TO_LIBRARY=<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${LIBDIR}</span>/<span class="pl-smi">${LIBRARY}</span>/<span class="pl-smi">${LIBRARY}</span>.kicad_sym<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L222" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="222"></td>
+          <td id="LC222" class="blob-code blob-code-inner js-file-line">		LIBRARY_TYPE=<span class="pl-s"><span class="pl-pds">&quot;</span>symbol<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L223" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="223"></td>
+          <td id="LC223" class="blob-code blob-code-inner js-file-line">		LIBRARY_TABLE_FILE_PATH=<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${KICADDIR}</span>/sym-lib-table<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L224" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="224"></td>
+          <td id="LC224" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">else</span></td>
+        </tr>
+        <tr>
+          <td id="L225" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="225"></td>
+          <td id="LC225" class="blob-code blob-code-inner js-file-line">		PATH_TO_LIBRARY=<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${LIBDIR}</span>/<span class="pl-smi">${LIBRARY}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L226" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="226"></td>
+          <td id="LC226" class="blob-code blob-code-inner js-file-line">		LIBRARY_TYPE=<span class="pl-s"><span class="pl-pds">&quot;</span>footprint<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L227" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="227"></td>
+          <td id="LC227" class="blob-code blob-code-inner js-file-line">		LIBRARY_TABLE_FILE_PATH=<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${KICADDIR}</span>/fp-lib-table<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L228" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="228"></td>
+          <td id="LC228" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">fi</span></td>
+        </tr>
+        <tr>
+          <td id="L229" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="229"></td>
+          <td id="LC229" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L230" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="230"></td>
+          <td id="LC230" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> LINE=<span class="pl-s"><span class="pl-pds">&quot;</span>	(lib (name <span class="pl-cce">\&quot;</span><span class="pl-smi">${LIBRARY<span class="pl-k">%</span>.pretty}</span><span class="pl-cce">\&quot;</span>)(type <span class="pl-cce">\&quot;</span>KiCad<span class="pl-cce">\&quot;</span>)(uri <span class="pl-cce">\&quot;\$</span>{KIPRJMOD}/<span class="pl-smi">${PATH_TO_LIBRARY}</span><span class="pl-cce">\&quot;</span>)(options <span class="pl-cce">\&quot;\&quot;</span>)(descr <span class="pl-cce">\&quot;</span>Acheron Project <span class="pl-smi">${LIBRARY_TYPE}</span> library<span class="pl-cce">\&quot;</span>))<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L231" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="231"></td>
+          <td id="LC231" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L232" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="232"></td>
+          <td id="LC232" class="blob-code blob-code-inner js-file-line">	add_git_library <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${LIBRARY}</span><span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${NO_GIT_SUBMODULES}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L233" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="233"></td>
+          <td id="LC233" class="blob-code blob-code-inner js-file-line">	return_code=<span class="pl-smi">$?</span></td>
+        </tr>
+        <tr>
+          <td id="L234" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="234"></td>
+          <td id="LC234" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L235" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="235"></td>
+          <td id="LC235" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> [[ <span class="pl-smi">${return_code}</span> <span class="pl-k">-eq</span> 1 ]]<span class="pl-k">;</span> <span class="pl-k">then</span></td>
+        </tr>
+        <tr>
+          <td id="L236" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="236"></td>
+          <td id="LC236" class="blob-code blob-code-inner js-file-line">		echo2stdout -e <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${BOLD}</span>&gt;&gt; Adding <span class="pl-smi">${MAGENTA}${LIBRARY}${WHITE}</span> <span class="pl-smi">${LIBRARY_TYPE}</span> library to KiCAD library table... \c<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L237" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="237"></td>
+          <td id="LC237" class="blob-code blob-code-inner js-file-line">		add_line_in_file <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${LINE}</span><span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${LIBRARY_TABLE_FILE_PATH}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L238" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="238"></td>
+          <td id="LC238" class="blob-code blob-code-inner js-file-line">		return_code=<span class="pl-smi">$?</span></td>
+        </tr>
+        <tr>
+          <td id="L239" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="239"></td>
+          <td id="LC239" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L240" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="240"></td>
+          <td id="LC240" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">if</span> [[ <span class="pl-smi">${return_code}</span> <span class="pl-k">-eq</span> 1 ]]<span class="pl-k">;</span> <span class="pl-k">then</span></td>
+        </tr>
+        <tr>
+          <td id="L241" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="241"></td>
+          <td id="LC241" class="blob-code blob-code-inner js-file-line">			echo2stdout <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${BOLD}${GREEN}</span>Done.<span class="pl-smi">${RESET}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L242" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="242"></td>
+          <td id="LC242" class="blob-code blob-code-inner js-file-line">			<span class="pl-k">return</span> 1</td>
+        </tr>
+        <tr>
+          <td id="L243" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="243"></td>
+          <td id="LC243" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">fi</span></td>
+        </tr>
+        <tr>
+          <td id="L244" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="244"></td>
+          <td id="LC244" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">fi</span></td>
+        </tr>
+        <tr>
+          <td id="L245" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="245"></td>
+          <td id="LC245" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L246" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="246"></td>
+          <td id="LC246" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">return</span> 0</td>
+        </tr>
+        <tr>
+          <td id="L247" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="247"></td>
+          <td id="LC247" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L248" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="248"></td>
+          <td id="LC248" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span>}}}1</span></td>
+        </tr>
+        <tr>
+          <td id="L249" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="249"></td>
+          <td id="LC249" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L250" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="250"></td>
+          <td id="LC250" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> clean() function: get the tool back to original state --------- {{{1</span></td>
+        </tr>
+        <tr>
+          <td id="L251" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="251"></td>
+          <td id="LC251" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> This function deletes all *.git files and folders, also the ${KICADDIR}.</span></td>
+        </tr>
+        <tr>
+          <td id="L252" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="252"></td>
+          <td id="LC252" class="blob-code blob-code-inner js-file-line"><span class="pl-en">clean</span>(){</td>
+        </tr>
+        <tr>
+          <td id="L253" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="253"></td>
+          <td id="LC253" class="blob-code blob-code-inner js-file-line">	echo2stdout -e <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${YELLOW}${BOLD}</span>&gt;&gt; CLEANING<span class="pl-smi">${WHITE}</span> produced files... \c<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L254" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="254"></td>
+          <td id="LC254" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">eval</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${RM_COMMAND}</span><span class="pl-pds">&quot;</span></span> -rfv ./.git ./.gitmodules <span class="pl-s"><span class="pl-pds">&quot;</span>./<span class="pl-smi">${KICADDIR}</span><span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${OUTPUT_REDIRECTION}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L255" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="255"></td>
+          <td id="LC255" class="blob-code blob-code-inner js-file-line">	echo2stdout -e <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${BOLD}${GREEN}</span>Done.<span class="pl-smi">${RESET}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L256" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="256"></td>
+          <td id="LC256" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L257" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="257"></td>
+          <td id="LC257" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span>}}}1</span></td>
+        </tr>
+        <tr>
+          <td id="L258" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="258"></td>
+          <td id="LC258" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L259" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="259"></td>
+          <td id="LC259" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> MAIN FUNCTION ----------------------------- {{{1</span></td>
+        </tr>
+        <tr>
+          <td id="L260" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="260"></td>
+          <td id="LC260" class="blob-code blob-code-inner js-file-line"><span class="pl-en">main</span>(){</td>
+        </tr>
+        <tr>
+          <td id="L261" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="261"></td>
+          <td id="LC261" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> [[ <span class="pl-smi">$#</span> <span class="pl-k">-eq</span> 0 ]]<span class="pl-k">;</span> <span class="pl-k">then</span></td>
+        </tr>
+        <tr>
+          <td id="L262" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="262"></td>
+          <td id="LC262" class="blob-code blob-code-inner js-file-line">		echo2stderr <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${RED}${BOLD}</span>&gt;&gt; ERROR<span class="pl-smi">${WHITE}</span> on function main:<span class="pl-smi">${RESET}</span> no argument passed.<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L263" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="263"></td>
+          <td id="LC263" class="blob-code blob-code-inner js-file-line">		<span class="pl-c1">exit</span> 7</td>
+        </tr>
+        <tr>
+          <td id="L264" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="264"></td>
+          <td id="LC264" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">fi</span></td>
+        </tr>
+        <tr>
+          <td id="L265" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="265"></td>
+          <td id="LC265" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L266" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="266"></td>
+          <td id="LC266" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> TARGET_TEMPLATE=<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$1</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L267" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="267"></td>
+          <td id="LC267" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> NOGRAPHICS=<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$2</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L268" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="268"></td>
+          <td id="LC268" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> NOLOGOS=<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$3</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L269" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="269"></td>
+          <td id="LC269" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> NO3D=<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$4</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L270" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="270"></td>
+          <td id="LC270" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> LOCAL_CLEANCREATE=<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$5</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L271" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="271"></td>
+          <td id="LC271" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> NO_GIT_REPO=<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$6</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L272" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="272"></td>
+          <td id="LC272" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> NO_GIT_SUBMODULE=<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$7</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L273" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="273"></td>
+          <td id="LC273" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> PURGECLEAN=<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$8</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L274" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="274"></td>
+          <td id="LC274" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> SWITCHTYPE=<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$9</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L275" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="275"></td>
+          <td id="LC275" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L276" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="276"></td>
+          <td id="LC276" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> [[ <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${PURGECLEAN}</span><span class="pl-pds">&quot;</span></span> <span class="pl-k">-eq</span> 1 ]]<span class="pl-k">;</span> <span class="pl-k">then</span> clean<span class="pl-k">;</span> <span class="pl-k">fi</span></td>
+        </tr>
+        <tr>
+          <td id="L277" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="277"></td>
+          <td id="LC277" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> [[ <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${NO_GIT_REPO}</span><span class="pl-pds">&quot;</span></span> <span class="pl-k">-eq</span> 0 ]]<span class="pl-k">;</span> <span class="pl-k">then</span></td>
+        </tr>
+        <tr>
+          <td id="L278" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="278"></td>
+          <td id="LC278" class="blob-code blob-code-inner js-file-line">		echo2stdout -e <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${BOLD}${GREEN}</span>&gt;&gt;<span class="pl-smi">${WHITE}</span> Initializing git repo... \c<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L279" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="279"></td>
+          <td id="LC279" class="blob-code blob-code-inner js-file-line">		<span class="pl-c1">eval</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${GIT_COMMAND}</span><span class="pl-pds">&quot;</span></span> init <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${OUTPUT_REDIRECTION}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L280" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="280"></td>
+          <td id="LC280" class="blob-code blob-code-inner js-file-line">		<span class="pl-c1">eval</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${GIT_COMMAND}</span><span class="pl-pds">&quot;</span></span> branch -M main <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${OUTPUT_REDIRECTION}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L281" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="281"></td>
+          <td id="LC281" class="blob-code blob-code-inner js-file-line">		echo2stdout <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${BOLD}${GREEN}</span>Done.<span class="pl-smi">${RESET}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L282" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="282"></td>
+          <td id="LC282" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">fi</span></td>
+        </tr>
+        <tr>
+          <td id="L283" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="283"></td>
+          <td id="LC283" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L284" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="284"></td>
+          <td id="LC284" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> kicad_setup <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${TARGET_TEMPLATE}</span><span class="pl-pds">&quot;</span></span><span class="pl-k">;</span> <span class="pl-k">then</span> <span class="pl-c1">exit</span> 8<span class="pl-k">;</span> <span class="pl-k">fi</span></td>
+        </tr>
+        <tr>
+          <td id="L285" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="285"></td>
+          <td id="LC285" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L286" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="286"></td>
+          <td id="LC286" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> add_library acheron_Symbols <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${NO_GIT_SUBMODULE}</span><span class="pl-pds">&quot;</span></span> 0<span class="pl-k">;</span> <span class="pl-k">then</span> <span class="pl-c1">exit</span> 9<span class="pl-k">;</span> <span class="pl-k">fi</span></td>
+        </tr>
+        <tr>
+          <td id="L287" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="287"></td>
+          <td id="LC287" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L288" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="288"></td>
+          <td id="LC288" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> add_library acheron_Components.pretty <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${NO_GIT_SUBMODULE}</span><span class="pl-pds">&quot;</span></span><span class="pl-k">;</span> <span class="pl-k">then</span> <span class="pl-c1">exit</span> 10<span class="pl-k">;</span> <span class="pl-k">fi</span></td>
+        </tr>
+        <tr>
+          <td id="L289" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="289"></td>
+          <td id="LC289" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> add_library acheron_Connectors.pretty <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${NO_GIT_SUBMODULE}</span><span class="pl-pds">&quot;</span></span><span class="pl-k">;</span> <span class="pl-k">then</span> <span class="pl-c1">exit</span> 11<span class="pl-k">;</span> <span class="pl-k">fi</span></td>
+        </tr>
+        <tr>
+          <td id="L290" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="290"></td>
+          <td id="LC290" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> add_library acheron_Hardware.pretty <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${NO_GIT_SUBMODULE}</span><span class="pl-pds">&quot;</span></span><span class="pl-k">;</span> <span class="pl-k">then</span> <span class="pl-c1">exit</span> 12<span class="pl-k">;</span> <span class="pl-k">fi</span></td>
+        </tr>
+        <tr>
+          <td id="L291" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="291"></td>
+          <td id="LC291" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> add_library <span class="pl-s"><span class="pl-pds">&quot;</span>acheron_<span class="pl-smi">${SWITCHTYPE}</span>.pretty<span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${NO_GIT_SUBMODULE}</span><span class="pl-pds">&quot;</span></span> 1<span class="pl-k">;</span> <span class="pl-k">then</span> <span class="pl-c1">exit</span> 13<span class="pl-k">;</span> <span class="pl-k">fi</span></td>
+        </tr>
+        <tr>
+          <td id="L292" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="292"></td>
+          <td id="LC292" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L293" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="293"></td>
+          <td id="LC293" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> [[ <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${NOGRAPHICS}</span><span class="pl-pds">&quot;</span></span> <span class="pl-k">-eq</span> 0 ]]<span class="pl-k">;</span> <span class="pl-k">then</span></td>
+        </tr>
+        <tr>
+          <td id="L294" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="294"></td>
+          <td id="LC294" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">if</span> add_library acheron_Graphics.pretty <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${NO_GIT_SUBMODULE}</span><span class="pl-pds">&quot;</span></span><span class="pl-k">;</span> <span class="pl-k">then</span> <span class="pl-c1">exit</span> 14<span class="pl-k">;</span> <span class="pl-k">fi</span></td>
+        </tr>
+        <tr>
+          <td id="L295" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="295"></td>
+          <td id="LC295" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">fi</span></td>
+        </tr>
+        <tr>
+          <td id="L296" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="296"></td>
+          <td id="LC296" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L297" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="297"></td>
+          <td id="LC297" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> [[ <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${NOLOGOS}</span><span class="pl-pds">&quot;</span></span> <span class="pl-k">-eq</span> 0 ]]<span class="pl-k">;</span> <span class="pl-k">then</span></td>
+        </tr>
+        <tr>
+          <td id="L298" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="298"></td>
+          <td id="LC298" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">if</span> add_library acheron_Logos.pretty <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${NO_GIT_SUBMODULE}</span><span class="pl-pds">&quot;</span></span><span class="pl-k">;</span> <span class="pl-k">then</span> <span class="pl-c1">exit</span> 15<span class="pl-k">;</span> <span class="pl-k">fi</span></td>
+        </tr>
+        <tr>
+          <td id="L299" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="299"></td>
+          <td id="LC299" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">fi</span></td>
+        </tr>
+        <tr>
+          <td id="L300" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="300"></td>
+          <td id="LC300" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L301" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="301"></td>
+          <td id="LC301" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> [[ <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${NO3D}</span><span class="pl-pds">&quot;</span></span> <span class="pl-k">-eq</span> 0 ]]<span class="pl-k">;</span> <span class="pl-k">then</span></td>
+        </tr>
+        <tr>
+          <td id="L302" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="302"></td>
+          <td id="LC302" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">if</span> add_git_library acheron_3D <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${NO_GIT_SUBMODULE}</span><span class="pl-pds">&quot;</span></span><span class="pl-k">;</span> <span class="pl-k">then</span> <span class="pl-c1">exit</span> 16<span class="pl-k">;</span> <span class="pl-k">fi</span></td>
+        </tr>
+        <tr>
+          <td id="L303" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="303"></td>
+          <td id="LC303" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">fi</span></td>
+        </tr>
+        <tr>
+          <td id="L304" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="304"></td>
+          <td id="LC304" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L305" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="305"></td>
+          <td id="LC305" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> [[ <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${LOCAL_CLEANCREATE}</span><span class="pl-pds">&quot;</span></span> <span class="pl-k">-eq</span> 1 ]]<span class="pl-k">;</span> <span class="pl-k">then</span></td>
+        </tr>
+        <tr>
+          <td id="L306" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="306"></td>
+          <td id="LC306" class="blob-code blob-code-inner js-file-line">		echo2stdout -e <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${BOLD}${YELLOW}</span>&gt;&gt;<span class="pl-smi">${WHITE}</span> Cleaning up... <span class="pl-smi">${RESET}</span>\c<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L307" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="307"></td>
+          <td id="LC307" class="blob-code blob-code-inner js-file-line">		<span class="pl-c1">eval</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${RM_COMMAND}</span><span class="pl-pds">&quot;</span></span> -rfv ./keyboard_create.sh ./<span class="pl-k">*</span>_template <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${OUTPUT_REDIRECTION}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L308" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="308"></td>
+          <td id="LC308" class="blob-code blob-code-inner js-file-line">		echo2stdout <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${BOLD}${GREEN}</span>Done.<span class="pl-smi">${RESET}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L309" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="309"></td>
+          <td id="LC309" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">fi</span></td>
+        </tr>
+        <tr>
+          <td id="L310" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="310"></td>
+          <td id="LC310" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L311" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="311"></td>
+          <td id="LC311" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">exit</span> 0</td>
+        </tr>
+        <tr>
+          <td id="L312" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="312"></td>
+          <td id="LC312" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L313" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="313"></td>
+          <td id="LC313" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span>}}}1</span></td>
+        </tr>
+        <tr>
+          <td id="L314" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="314"></td>
+          <td id="LC314" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L315" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="315"></td>
+          <td id="LC315" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Parsing options and arguments --------------------------------------------------------------- {{{1</span></td>
+        </tr>
+        <tr>
+          <td id="L316" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="316"></td>
+          <td id="LC316" class="blob-code blob-code-inner js-file-line"><span class="pl-k">while</span> <span class="pl-s"><span class="pl-pds">((</span> &quot;<span class="pl-smi">$#</span>&quot; <span class="pl-pds">))</span></span><span class="pl-k">;</span> <span class="pl-k">do</span></td>
+        </tr>
+        <tr>
+          <td id="L317" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="317"></td>
+          <td id="LC317" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">case</span> <span class="pl-smi">$1</span> <span class="pl-k">in</span></td>
+        </tr>
+        <tr>
+          <td id="L318" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="318"></td>
+          <td id="LC318" class="blob-code blob-code-inner js-file-line">	<span class="pl-c"><span class="pl-c">#</span> HANDLING ARGUMENTS ---------------------</span></td>
+        </tr>
+        <tr>
+          <td id="L319" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="319"></td>
+          <td id="LC319" class="blob-code blob-code-inner js-file-line">		-h | --help)</td>
+        </tr>
+        <tr>
+          <td id="L320" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="320"></td>
+          <td id="LC320" class="blob-code blob-code-inner js-file-line">			usage</td>
+        </tr>
+        <tr>
+          <td id="L321" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="321"></td>
+          <td id="LC321" class="blob-code blob-code-inner js-file-line">			<span class="pl-c1">exit</span> 0</td>
+        </tr>
+        <tr>
+          <td id="L322" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="322"></td>
+          <td id="LC322" class="blob-code blob-code-inner js-file-line">			;;</td>
+        </tr>
+        <tr>
+          <td id="L323" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="323"></td>
+          <td id="LC323" class="blob-code blob-code-inner js-file-line">		-v | --verbose)</td>
+        </tr>
+        <tr>
+          <td id="L324" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="324"></td>
+          <td id="LC324" class="blob-code blob-code-inner js-file-line">			VERBOSE=1</td>
+        </tr>
+        <tr>
+          <td id="L325" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="325"></td>
+          <td id="LC325" class="blob-code blob-code-inner js-file-line">			OUTPUT_REDIRECTION=</td>
+        </tr>
+        <tr>
+          <td id="L326" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="326"></td>
+          <td id="LC326" class="blob-code blob-code-inner js-file-line">			;;</td>
+        </tr>
+        <tr>
+          <td id="L327" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="327"></td>
+          <td id="LC327" class="blob-code blob-code-inner js-file-line">		-cc | --cleancreate)</td>
+        </tr>
+        <tr>
+          <td id="L328" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="328"></td>
+          <td id="LC328" class="blob-code blob-code-inner js-file-line">			CLEANCREATE=1</td>
+        </tr>
+        <tr>
+          <td id="L329" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="329"></td>
+          <td id="LC329" class="blob-code blob-code-inner js-file-line">			;;</td>
+        </tr>
+        <tr>
+          <td id="L330" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="330"></td>
+          <td id="LC330" class="blob-code blob-code-inner js-file-line">		-nl | --nologos)</td>
+        </tr>
+        <tr>
+          <td id="L331" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="331"></td>
+          <td id="LC331" class="blob-code blob-code-inner js-file-line">			NOLOGOS=1</td>
+        </tr>
+        <tr>
+          <td id="L332" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="332"></td>
+          <td id="LC332" class="blob-code blob-code-inner js-file-line">			;;</td>
+        </tr>
+        <tr>
+          <td id="L333" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="333"></td>
+          <td id="LC333" class="blob-code blob-code-inner js-file-line">		-ng | --nographics)</td>
+        </tr>
+        <tr>
+          <td id="L334" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="334"></td>
+          <td id="LC334" class="blob-code blob-code-inner js-file-line">			NOGRAPHICS=1</td>
+        </tr>
+        <tr>
+          <td id="L335" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="335"></td>
+          <td id="LC335" class="blob-code blob-code-inner js-file-line">			;;</td>
+        </tr>
+        <tr>
+          <td id="L336" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="336"></td>
+          <td id="LC336" class="blob-code blob-code-inner js-file-line">		-n3 | --no3d)</td>
+        </tr>
+        <tr>
+          <td id="L337" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="337"></td>
+          <td id="LC337" class="blob-code blob-code-inner js-file-line">			NO3D=1</td>
+        </tr>
+        <tr>
+          <td id="L338" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="338"></td>
+          <td id="LC338" class="blob-code blob-code-inner js-file-line">			;;</td>
+        </tr>
+        <tr>
+          <td id="L339" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="339"></td>
+          <td id="LC339" class="blob-code blob-code-inner js-file-line">		-nr | --norepo)</td>
+        </tr>
+        <tr>
+          <td id="L340" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="340"></td>
+          <td id="LC340" class="blob-code blob-code-inner js-file-line">			NO_GIT_REPO=1</td>
+        </tr>
+        <tr>
+          <td id="L341" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="341"></td>
+          <td id="LC341" class="blob-code blob-code-inner js-file-line">			;;</td>
+        </tr>
+        <tr>
+          <td id="L342" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="342"></td>
+          <td id="LC342" class="blob-code blob-code-inner js-file-line">		-ns | --nosubmodule)</td>
+        </tr>
+        <tr>
+          <td id="L343" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="343"></td>
+          <td id="LC343" class="blob-code blob-code-inner js-file-line">			NO_GIT_SUBMODULES=1</td>
+        </tr>
+        <tr>
+          <td id="L344" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="344"></td>
+          <td id="LC344" class="blob-code blob-code-inner js-file-line">			;;</td>
+        </tr>
+        <tr>
+          <td id="L345" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="345"></td>
+          <td id="LC345" class="blob-code blob-code-inner js-file-line">		-pc | --purgeclean)</td>
+        </tr>
+        <tr>
+          <td id="L346" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="346"></td>
+          <td id="LC346" class="blob-code blob-code-inner js-file-line">			PURGECLEAN=1</td>
+        </tr>
+        <tr>
+          <td id="L347" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="347"></td>
+          <td id="LC347" class="blob-code blob-code-inner js-file-line">			;;</td>
+        </tr>
+        <tr>
+          <td id="L348" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="348"></td>
+          <td id="LC348" class="blob-code blob-code-inner js-file-line">	<span class="pl-c"><span class="pl-c">#</span> HANDLING OPTIONS -----------------------</span></td>
+        </tr>
+        <tr>
+          <td id="L349" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="349"></td>
+          <td id="LC349" class="blob-code blob-code-inner js-file-line">		<span class="pl-c"><span class="pl-c">#</span> TEMPLATE ARGUMENT --------------</span></td>
+        </tr>
+        <tr>
+          <td id="L350" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="350"></td>
+          <td id="LC350" class="blob-code blob-code-inner js-file-line">		-t | --template)</td>
+        </tr>
+        <tr>
+          <td id="L351" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="351"></td>
+          <td id="LC351" class="blob-code blob-code-inner js-file-line">			TEMPLATE=<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$2</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L352" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="352"></td>
+          <td id="LC352" class="blob-code blob-code-inner js-file-line">			<span class="pl-c1">shift</span></td>
+        </tr>
+        <tr>
+          <td id="L353" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="353"></td>
+          <td id="LC353" class="blob-code blob-code-inner js-file-line">			;;</td>
+        </tr>
+        <tr>
+          <td id="L354" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="354"></td>
+          <td id="LC354" class="blob-code blob-code-inner js-file-line">		--template=<span class="pl-k">?*</span>)</td>
+        </tr>
+        <tr>
+          <td id="L355" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="355"></td>
+          <td id="LC355" class="blob-code blob-code-inner js-file-line">			TEMPLATE=<span class="pl-smi">${1<span class="pl-k">#*</span>=}</span> <span class="pl-c"><span class="pl-c">#</span> Deletes everything up to &quot;=&quot; and assigns the remainder</span></td>
+        </tr>
+        <tr>
+          <td id="L356" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="356"></td>
+          <td id="LC356" class="blob-code blob-code-inner js-file-line">			;;</td>
+        </tr>
+        <tr>
+          <td id="L357" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="357"></td>
+          <td id="LC357" class="blob-code blob-code-inner js-file-line">		<span class="pl-c"><span class="pl-c">#</span> KICADDIR ARGUMENT --------------</span></td>
+        </tr>
+        <tr>
+          <td id="L358" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="358"></td>
+          <td id="LC358" class="blob-code blob-code-inner js-file-line">		-kd | --kicaddir)</td>
+        </tr>
+        <tr>
+          <td id="L359" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="359"></td>
+          <td id="LC359" class="blob-code blob-code-inner js-file-line">			KICADDIR=<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$2</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L360" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="360"></td>
+          <td id="LC360" class="blob-code blob-code-inner js-file-line">			<span class="pl-c1">shift</span></td>
+        </tr>
+        <tr>
+          <td id="L361" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="361"></td>
+          <td id="LC361" class="blob-code blob-code-inner js-file-line">			;;</td>
+        </tr>
+        <tr>
+          <td id="L362" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="362"></td>
+          <td id="LC362" class="blob-code blob-code-inner js-file-line">		--kicaddir=<span class="pl-k">?*</span>)</td>
+        </tr>
+        <tr>
+          <td id="L363" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="363"></td>
+          <td id="LC363" class="blob-code blob-code-inner js-file-line">			KICADDIR=<span class="pl-smi">${1<span class="pl-k">#*</span>=}</span> <span class="pl-c"><span class="pl-c">#</span> Deletes everything up to &quot;=&quot; and assigns the remainder</span></td>
+        </tr>
+        <tr>
+          <td id="L364" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="364"></td>
+          <td id="LC364" class="blob-code blob-code-inner js-file-line">			;;</td>
+        </tr>
+        <tr>
+          <td id="L365" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="365"></td>
+          <td id="LC365" class="blob-code blob-code-inner js-file-line">		<span class="pl-c"><span class="pl-c">#</span> LIBDIR ARGUMENT ----------------</span></td>
+        </tr>
+        <tr>
+          <td id="L366" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="366"></td>
+          <td id="LC366" class="blob-code blob-code-inner js-file-line">		-ld | --libdir)</td>
+        </tr>
+        <tr>
+          <td id="L367" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="367"></td>
+          <td id="LC367" class="blob-code blob-code-inner js-file-line">			LIBDIR=<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$2</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L368" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="368"></td>
+          <td id="LC368" class="blob-code blob-code-inner js-file-line">			<span class="pl-c1">shift</span></td>
+        </tr>
+        <tr>
+          <td id="L369" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="369"></td>
+          <td id="LC369" class="blob-code blob-code-inner js-file-line">			;;</td>
+        </tr>
+        <tr>
+          <td id="L370" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="370"></td>
+          <td id="LC370" class="blob-code blob-code-inner js-file-line">		--libdir=<span class="pl-k">?*</span>)</td>
+        </tr>
+        <tr>
+          <td id="L371" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="371"></td>
+          <td id="LC371" class="blob-code blob-code-inner js-file-line">			LIBDIR=<span class="pl-smi">${1<span class="pl-k">#*</span>=}</span> <span class="pl-c"><span class="pl-c">#</span> Deletes everything up to &quot;=&quot; and assigns the remainder</span></td>
+        </tr>
+        <tr>
+          <td id="L372" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="372"></td>
+          <td id="LC372" class="blob-code blob-code-inner js-file-line">			;;</td>
+        </tr>
+        <tr>
+          <td id="L373" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="373"></td>
+          <td id="LC373" class="blob-code blob-code-inner js-file-line">		<span class="pl-c"><span class="pl-c">#</span> PRJNAME ARGUMENT ----------------</span></td>
+        </tr>
+        <tr>
+          <td id="L374" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="374"></td>
+          <td id="LC374" class="blob-code blob-code-inner js-file-line">		-p | --projectname)</td>
+        </tr>
+        <tr>
+          <td id="L375" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="375"></td>
+          <td id="LC375" class="blob-code blob-code-inner js-file-line">			PRJNAME=<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$2</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L376" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="376"></td>
+          <td id="LC376" class="blob-code blob-code-inner js-file-line">			<span class="pl-c1">shift</span></td>
+        </tr>
+        <tr>
+          <td id="L377" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="377"></td>
+          <td id="LC377" class="blob-code blob-code-inner js-file-line">			;;</td>
+        </tr>
+        <tr>
+          <td id="L378" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="378"></td>
+          <td id="LC378" class="blob-code blob-code-inner js-file-line">		--projectname=<span class="pl-k">?*</span>)</td>
+        </tr>
+        <tr>
+          <td id="L379" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="379"></td>
+          <td id="LC379" class="blob-code blob-code-inner js-file-line">			PRJNAME=<span class="pl-smi">${1<span class="pl-k">#*</span>=}</span> <span class="pl-c"><span class="pl-c">#</span> Deletes everything up to &quot;=&quot; and assigns the remainder</span></td>
+        </tr>
+        <tr>
+          <td id="L380" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="380"></td>
+          <td id="LC380" class="blob-code blob-code-inner js-file-line">			;;</td>
+        </tr>
+        <tr>
+          <td id="L381" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="381"></td>
+          <td id="LC381" class="blob-code blob-code-inner js-file-line">		<span class="pl-c"><span class="pl-c">#</span> SWITCHTYPE ARGUMENT ----------------</span></td>
+        </tr>
+        <tr>
+          <td id="L382" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="382"></td>
+          <td id="LC382" class="blob-code blob-code-inner js-file-line">		-s | --switchtype)</td>
+        </tr>
+        <tr>
+          <td id="L383" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="383"></td>
+          <td id="LC383" class="blob-code blob-code-inner js-file-line">			SWITCHTYPE=<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$2</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L384" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="384"></td>
+          <td id="LC384" class="blob-code blob-code-inner js-file-line">			<span class="pl-c1">shift</span></td>
+        </tr>
+        <tr>
+          <td id="L385" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="385"></td>
+          <td id="LC385" class="blob-code blob-code-inner js-file-line">			;;</td>
+        </tr>
+        <tr>
+          <td id="L386" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="386"></td>
+          <td id="LC386" class="blob-code blob-code-inner js-file-line">		--switchtype=<span class="pl-k">?*</span>)</td>
+        </tr>
+        <tr>
+          <td id="L387" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="387"></td>
+          <td id="LC387" class="blob-code blob-code-inner js-file-line">			SWITCHTYPE=<span class="pl-smi">${1<span class="pl-k">#*</span>=}</span> <span class="pl-c"><span class="pl-c">#</span> Deletes everything up to &quot;=&quot; and assigns the remainder</span></td>
+        </tr>
+        <tr>
+          <td id="L388" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="388"></td>
+          <td id="LC388" class="blob-code blob-code-inner js-file-line">			;;</td>
+        </tr>
+        <tr>
+          <td id="L389" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="389"></td>
+          <td id="LC389" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">*</span>)</td>
+        </tr>
+        <tr>
+          <td id="L390" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="390"></td>
+          <td id="LC390" class="blob-code blob-code-inner js-file-line">			echo2stderr <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${BOLD}${RED}</span>&gt;&gt; WARN: <span class="pl-smi">${RESET}</span> Unknown argument &#39;<span class="pl-smi">$1</span>&#39;. Ignoring...<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L391" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="391"></td>
+          <td id="LC391" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">esac</span></td>
+        </tr>
+        <tr>
+          <td id="L392" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="392"></td>
+          <td id="LC392" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">shift</span></td>
+        </tr>
+        <tr>
+          <td id="L393" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="393"></td>
+          <td id="LC393" class="blob-code blob-code-inner js-file-line"><span class="pl-k">done</span></td>
+        </tr>
+        <tr>
+          <td id="L394" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="394"></td>
+          <td id="LC394" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span>}}}1</span></td>
+        </tr>
+        <tr>
+          <td id="L395" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="395"></td>
+          <td id="LC395" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L396" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="396"></td>
+          <td id="LC396" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Check the correctness of the values read from stdin ----------------------------------------- {{{1</span></td>
+        </tr>
+        <tr>
+          <td id="L397" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="397"></td>
+          <td id="LC397" class="blob-code blob-code-inner js-file-line">verbose_logging <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${BOLD}</span>&gt;&gt; INFO:  <span class="pl-smi">${GREEN}</span>Verbose logging enabled<span class="pl-smi">${RESET}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L398" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="398"></td>
+          <td id="LC398" class="blob-code blob-code-inner js-file-line">verbose_logging <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${BOLD}</span>&gt;&gt; DEBUG: <span class="pl-smi">${YELLOW}</span>OUTPUT_REDIRECTION set to <span class="pl-smi">${OUTPUT_REDIRECTION}${RESET}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L399" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="399"></td>
+          <td id="LC399" class="blob-code blob-code-inner js-file-line">verbose_logging <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${BOLD}</span>&gt;&gt; DEBUG: <span class="pl-smi">${YELLOW}</span>CLEANCREATE set to <span class="pl-smi">${CLEANCREATE}${RESET}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L400" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="400"></td>
+          <td id="LC400" class="blob-code blob-code-inner js-file-line">verbose_logging <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${BOLD}</span>&gt;&gt; DEBUG: <span class="pl-smi">${YELLOW}</span>NOLOGOS set to <span class="pl-smi">${NOLOGOS}${RESET}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L401" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="401"></td>
+          <td id="LC401" class="blob-code blob-code-inner js-file-line">verbose_logging <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${BOLD}</span>&gt;&gt; DEBUG: <span class="pl-smi">${YELLOW}</span>NOGRAPHICS set to <span class="pl-smi">${NOGRAPHICS}${RESET}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L402" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="402"></td>
+          <td id="LC402" class="blob-code blob-code-inner js-file-line">verbose_logging <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${BOLD}</span>&gt;&gt; DEBUG: <span class="pl-smi">${YELLOW}</span>NO3D set to <span class="pl-smi">${NO3D}${RESET}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L403" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="403"></td>
+          <td id="LC403" class="blob-code blob-code-inner js-file-line">verbose_logging <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${BOLD}</span>&gt;&gt; DEBUG: <span class="pl-smi">${YELLOW}</span>NO_GIT_REPO set to <span class="pl-smi">${NO_GIT_REPO}${RESET}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L404" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="404"></td>
+          <td id="LC404" class="blob-code blob-code-inner js-file-line">verbose_logging <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${BOLD}</span>&gt;&gt; DEBUG: <span class="pl-smi">${YELLOW}</span>NO_GIT_SUBMODULES set to <span class="pl-smi">${NO_GIT_SUBMODULES}${RESET}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L405" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="405"></td>
+          <td id="LC405" class="blob-code blob-code-inner js-file-line">verbose_logging <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${BOLD}</span>&gt;&gt; DEBUG: <span class="pl-smi">${YELLOW}</span>PURGECLEAN set to <span class="pl-smi">${PURGECLEAN}${RESET}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L406" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="406"></td>
+          <td id="LC406" class="blob-code blob-code-inner js-file-line">verbose_logging <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${BOLD}</span>&gt;&gt; DEBUG: <span class="pl-smi">${YELLOW}</span>TEMPLATE set to <span class="pl-smi">${TEMPLATE}${RESET}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L407" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="407"></td>
+          <td id="LC407" class="blob-code blob-code-inner js-file-line">verbose_logging <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${BOLD}</span>&gt;&gt; DEBUG: <span class="pl-smi">${YELLOW}</span>KICADDIR set to <span class="pl-smi">${KICADDIR}${RESET}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L408" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="408"></td>
+          <td id="LC408" class="blob-code blob-code-inner js-file-line">verbose_logging <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${BOLD}</span>&gt;&gt; DEBUG: <span class="pl-smi">${YELLOW}</span>LIBDIR set to <span class="pl-smi">${LIBDIR}${RESET}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L409" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="409"></td>
+          <td id="LC409" class="blob-code blob-code-inner js-file-line">verbose_logging <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${BOLD}</span>&gt;&gt; DEBUG: <span class="pl-smi">${YELLOW}</span>PRJNAME set to <span class="pl-smi">${PRJNAME}${RESET}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L410" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="410"></td>
+          <td id="LC410" class="blob-code blob-code-inner js-file-line">verbose_logging <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${BOLD}</span>&gt;&gt; DEBUG: <span class="pl-smi">${YELLOW}</span>SWITCHTYPE set to <span class="pl-smi">${SWITCHTYPE}${RESET}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L411" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="411"></td>
+          <td id="LC411" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L412" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="412"></td>
+          <td id="LC412" class="blob-code blob-code-inner js-file-line"><span class="pl-k">if</span> [[ <span class="pl-k">-z</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${TEMPLATE}</span><span class="pl-pds">&quot;</span></span> ]]<span class="pl-k">;</span> <span class="pl-k">then</span></td>
+        </tr>
+        <tr>
+          <td id="L413" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="413"></td>
+          <td id="LC413" class="blob-code blob-code-inner js-file-line">	echo2stderr <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${BOLD}${RED}</span>&gt;&gt; ERROR:<span class="pl-smi">${RESET}</span> -t/--template argument requires a non-empty string.<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L414" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="414"></td>
+          <td id="LC414" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">exit</span> 1</td>
+        </tr>
+        <tr>
+          <td id="L415" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="415"></td>
+          <td id="LC415" class="blob-code blob-code-inner js-file-line"><span class="pl-k">fi</span></td>
+        </tr>
+        <tr>
+          <td id="L416" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="416"></td>
+          <td id="LC416" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L417" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="417"></td>
+          <td id="LC417" class="blob-code blob-code-inner js-file-line"><span class="pl-k">if</span> [[ <span class="pl-k">-z</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${KICADDIR}</span><span class="pl-pds">&quot;</span></span> ]]<span class="pl-k">;</span> <span class="pl-k">then</span></td>
+        </tr>
+        <tr>
+          <td id="L418" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="418"></td>
+          <td id="LC418" class="blob-code blob-code-inner js-file-line">	echo2stderr <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${BOLD}${RED}</span>&gt;&gt; ERROR:<span class="pl-smi">${RESET}</span> -kd/--kicaddir argument requires a non-empty string.<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L419" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="419"></td>
+          <td id="LC419" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">exit</span> 2</td>
+        </tr>
+        <tr>
+          <td id="L420" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="420"></td>
+          <td id="LC420" class="blob-code blob-code-inner js-file-line"><span class="pl-k">fi</span></td>
+        </tr>
+        <tr>
+          <td id="L421" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="421"></td>
+          <td id="LC421" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L422" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="422"></td>
+          <td id="LC422" class="blob-code blob-code-inner js-file-line"><span class="pl-k">if</span> [[ <span class="pl-k">-z</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${LIBDIR}</span><span class="pl-pds">&quot;</span></span> ]]<span class="pl-k">;</span> <span class="pl-k">then</span></td>
+        </tr>
+        <tr>
+          <td id="L423" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="423"></td>
+          <td id="LC423" class="blob-code blob-code-inner js-file-line">	echo2stderr <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${BOLD}${RED}</span>&gt;&gt; ERROR:<span class="pl-smi">${RESET}</span> -ld/--libdir argument requires a non-empty string.<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L424" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="424"></td>
+          <td id="LC424" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">exit</span> 3</td>
+        </tr>
+        <tr>
+          <td id="L425" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="425"></td>
+          <td id="LC425" class="blob-code blob-code-inner js-file-line"><span class="pl-k">fi</span></td>
+        </tr>
+        <tr>
+          <td id="L426" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="426"></td>
+          <td id="LC426" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L427" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="427"></td>
+          <td id="LC427" class="blob-code blob-code-inner js-file-line"><span class="pl-k">if</span> [[ <span class="pl-k">-z</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${PRJNAME}</span><span class="pl-pds">&quot;</span></span> ]]<span class="pl-k">;</span> <span class="pl-k">then</span></td>
+        </tr>
+        <tr>
+          <td id="L428" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="428"></td>
+          <td id="LC428" class="blob-code blob-code-inner js-file-line">	echo2stderr <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${BOLD}${RED}</span>&gt;&gt; ERROR:<span class="pl-smi">${RESET}</span> -p/--projectname requires a non-empty string.<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L429" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="429"></td>
+          <td id="LC429" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">exit</span> 4</td>
+        </tr>
+        <tr>
+          <td id="L430" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="430"></td>
+          <td id="LC430" class="blob-code blob-code-inner js-file-line"><span class="pl-k">fi</span></td>
+        </tr>
+        <tr>
+          <td id="L431" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="431"></td>
+          <td id="LC431" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span>}}}1</span></td>
+        </tr>
+        <tr>
+          <td id="L432" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="432"></td>
+          <td id="LC432" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L433" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="433"></td>
+          <td id="LC433" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Checking if the limited options are in the allowed values ----------------------------------- {{{1</span></td>
+        </tr>
+        <tr>
+          <td id="L434" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="434"></td>
+          <td id="LC434" class="blob-code blob-code-inner js-file-line"><span class="pl-k">if</span> [[ <span class="pl-k">!</span> <span class="pl-smi">${ALLOWED_SWITCHTYPES[*]}</span> <span class="pl-k">=~</span> (^<span class="pl-k">|</span>[[:space:]])<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${SWITCHTYPE}</span><span class="pl-pds">&quot;</span></span>($<span class="pl-k">|</span>[[:space:]]) ]]<span class="pl-k">;</span> <span class="pl-k">then</span></td>
+        </tr>
+        <tr>
+          <td id="L435" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="435"></td>
+          <td id="LC435" class="blob-code blob-code-inner js-file-line">	echo2stderr <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${BOLD}${RED}</span>&gt;&gt; ERROR:<span class="pl-smi">${WHITE}</span> switch type option &#39;<span class="pl-smi">${SWITCHTYPE}</span>&#39; is not recognized. Run the script with the &#39;-h&#39; option for usage guidelines.<span class="pl-smi">${RESET}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L436" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="436"></td>
+          <td id="LC436" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">exit</span> 5</td>
+        </tr>
+        <tr>
+          <td id="L437" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="437"></td>
+          <td id="LC437" class="blob-code blob-code-inner js-file-line"><span class="pl-k">fi</span></td>
+        </tr>
+        <tr>
+          <td id="L438" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="438"></td>
+          <td id="LC438" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L439" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="439"></td>
+          <td id="LC439" class="blob-code blob-code-inner js-file-line"><span class="pl-k">if</span> [[ <span class="pl-k">!</span> <span class="pl-smi">${ALLOWED_TEMPLATES[*]}</span> <span class="pl-k">=~</span> (^<span class="pl-k">|</span>[[:space:]])<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${TEMPLATE}</span><span class="pl-pds">&quot;</span></span>($<span class="pl-k">|</span>[[:space:]]) ]]<span class="pl-k">;</span> <span class="pl-k">then</span></td>
+        </tr>
+        <tr>
+          <td id="L440" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="440"></td>
+          <td id="LC440" class="blob-code blob-code-inner js-file-line">	echo2stderr <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${BOLD}${RED}</span>&gt;&gt; ERROR:<span class="pl-smi">${WHITE}</span> template option &#39;<span class="pl-smi">${TEMPLATE}</span>&#39; is not recognized. Run the script with the &#39;-h&#39; option for usage guidelines.<span class="pl-smi">${RESET}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L441" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="441"></td>
+          <td id="LC441" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">exit</span> 6</td>
+        </tr>
+        <tr>
+          <td id="L442" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="442"></td>
+          <td id="LC442" class="blob-code blob-code-inner js-file-line"><span class="pl-k">fi</span></td>
+        </tr>
+        <tr>
+          <td id="L443" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="443"></td>
+          <td id="LC443" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span>}}}1</span></td>
+        </tr>
+        <tr>
+          <td id="L444" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="444"></td>
+          <td id="LC444" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L445" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="445"></td>
+          <td id="LC445" class="blob-code blob-code-inner js-file-line">main <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${TEMPLATE}</span><span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${NOGRAPHICS}</span><span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${NOLOGOS}</span><span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${NO3D}</span><span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${CLEANCREATE}</span><span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${NO_GIT_REPO}</span><span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${NO_GIT_SUBMODULES}</span><span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${PURGECLEAN}</span><span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">${SWITCHTYPE}</span><span class="pl-pds">&quot;</span></span></td>
+        </tr>
+  </table>
+</div>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 color-bg-default border color-border-default rounded-2" aria-label="Inline file action toolbar">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
+    <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
+</svg>
+    </summary>
+    <details-menu>
+
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se ml-2 mt-2"
+      style="width:185px"
+      >
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" aria-label="Copy lines">
+            Copy lines
+          </clipboard-copy>
+        </li>
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" aria-label="Copy permalink">
+            Copy permalink
+          </clipboard-copy>
+        </li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/drakumus/AcheronSetup/blame/9a198640f54a6d2b05eb1dc98daae21c8f0881b7/keyboard_creator/keyboard_create.sh">View git blame</a></li>
+      </ul>
+    </details-menu>
+  </details>
 
     </div>
 
-  </readme-toc>
+    </div>
+
 
   
 
